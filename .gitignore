@@ -1,0 +1,19 @@
+# Résultats et fichiers de travail
+/dist/
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.epub
+/main.pdf
+/main.release.tex
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.vscode/
+.idea/

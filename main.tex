@@ -1,0 +1,70 @@
+\documentclass[11pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[french]{babel}
+\usepackage{amsmath}
+\usepackage{geometry}
+\geometry{margin=2.5cm,headheight=14pt}
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\textit{Histoire de la Congrégation}}
+\fancyhead[R]{\small\textit{\nouppercase{\leftmark}}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\providecommand{\releaseversion}{Version de développement}
+
+\title{\Huge\textbf{Histoire de la Congrégation des jeunes gens}}
+\author{Benoît Coste\\[0.5cm]\large Projet de transcription}
+\date{\releaseversion}
+
+\begin{document}
+\hypersetup{pageanchor=false}
+\maketitle
+\pagenumbering{roman}
+\hypersetup{pageanchor=true}
+\tableofcontents
+\clearpage
+
+\chapter*{Note du transcripteur}
+\addcontentsline{toc}{chapter}{Note du transcripteur}
+
+Ce projet prépare la transcription du manuscrit intitulé
+\textit{Histoire de la Congrégation des jeunes gens}, d'après le titre
+visible sur la première page du document numérisé.
+
+Le document source comporte 182 vues numérisées, généralement en doubles
+pages. La pagination du fichier PDF et les numéros portés sur le manuscrit
+sont deux repères distincts. Les renvois à la source préciseront ces deux
+repères dès qu'ils auront été vérifiés.
+
+\textbf{État de cette édition : transcription non commencée.}
+Ce document constitue le cadre éditorial du projet. Aucun passage du
+manuscrit n'est encore présenté comme transcrit ou relu.
+
+Le nom de Benoît Coste est repris du cadrage du projet. L'attribution
+des différentes parties et les éventuels changements de main devront
+être vérifiés au cours de la lecture. Les notes éditoriales resteront
+distinctes des mots du manuscrit.
+
+Les principes de mise en page et de publication sont adaptés du projet
+\href{https://github.com/grostim/BenoitCoste}{Mémoires de Benoît Coste}.
+Les conventions et le suivi détaillé figurent dans le dépôt de cette édition.
+
+\begin{center}
+\href{https://github.com/grostim/BenoitCoste-HistoireCongregation/issues}
+{Signaler une erreur ou proposer une correction}
+
+\medskip
+\includegraphics[width=2.5cm]{images/signaler-erreur.png}
+\end{center}
+
+\clearpage
+\input{transcription/texte.tex}
+\end{document}

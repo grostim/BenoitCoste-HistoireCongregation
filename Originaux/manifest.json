@@ -1,0 +1,36 @@
+{
+  "original": {
+    "nom_fourni": "Histoire Congrégation (1).pdf",
+    "nom_archive": "Histoire_Congregation_original.pdf",
+    "pages": 182,
+    "octets": 155336611,
+    "sha256": "41b4b61bf3b639ad86590009bfc934c43d7e242bc99d3600e95f3009afd001f3",
+    "url": "https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/download/sources-v1.0.0/Histoire_Congregation_original.pdf"
+  },
+  "volumes": [
+    {
+      "fichier": "Histoire_Congregation_vues_001-060.pdf",
+      "premiere_vue": 1,
+      "derniere_vue": 60,
+      "pages": 60,
+      "octets": 55560973,
+      "sha256": "12011c6feb5376fb22f70d3f9fd351a44bc6951ceab2da03bdaf38f4ce26aa56"
+    },
+    {
+      "fichier": "Histoire_Congregation_vues_061-120.pdf",
+      "premiere_vue": 61,
+      "derniere_vue": 120,
+      "pages": 60,
+      "octets": 49299489,
+      "sha256": "4596bac8489d54031e6c5543b9a433461b07420148eee54603118ab9ed5afa5a"
+    },
+    {
+      "fichier": "Histoire_Congregation_vues_121-182.pdf",
+      "premiere_vue": 121,
+      "derniere_vue": 182,
+      "pages": 62,
+      "octets": 50513834,
+      "sha256": "951b8e70336bcb57a871f2293d8c4fca7fcb4c136e02690e8ff548ac22fcf11a"
+    }
+  ]
+}
