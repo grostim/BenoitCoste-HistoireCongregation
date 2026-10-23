@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis chapitre de la fondation complet (p. 77–92, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les deux premiers chapitres de l’histoire (p. 77–111, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -37,9 +37,12 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q040 | Vue 39, droite, p. 79 | Proposition des nouveaux frères | Les noms Lallemand, Bori et Journoud sont lisibles et reviennent p. 81. Confirmer la syntaxe du raccord proposé « sur les propositions qui leur en fut faite » ; pas de réécriture grammaticale silencieuse. |
 | Q041 | Vue 40, gauche, p. 80 | « celle-là n’enfantera pas la liberté ni la licence » | Le premier mot se lit « liberté » sur l’agrandissement ; confirmer cette lecture surprenante dans l’opposition avec la « véritable liberté » de la suite. La source n’est pas corrigée d’après le sens attendu. |
 | Q045 | Vue 41, droite, p. 83 | « Sicut novellæ olivarum in circuitu mensæ tuæ » | Confirmer la terminaison de « novellæ » et la référence de la citation avant de la préciser en note ; traduction littérale proposée seule ajoutée. |
-
 | Q048 | Vue 43, gauche, p. 86, début | Aide à la confection du règlement | Le groupe après « et nous » et avant « parvenir beaucoup plus rapidement au bout de nos efforts » reste incertain. Il est laissé explicitement non restitué ; la première saisie a été écartée. |
 | Q056 | Vue 44, gauche/droite, p. 88–89 | Liste des sept fêtes | Confirmer le mot avant « immaculée », qui ressemble à « Congrégation » plutôt qu’à « Conception », et le décompte des sept fêtes annoncé par le manuscrit. Aucun intitulé supplémentaire n’est inventé. |
+
+| Q057 | Vue 46, droite, p. 93 | Gaudete in Domino semper ; Iterum dico, gaudete | Vérifier la référence de la citation avant de la préciser en note ; traduction littérale seule ajoutée. |
+| Q060 | Vue 49, droite, p. 99 | Éphèse au 5e siècle et Lyon au 13e | Les chiffres 5 et 13 sont lisibles. Vérifier séparément la chronologie historique si une note est ajoutée ; ne pas corriger les chiffres de la source. |
+| Q066 | Vue 55, droite, p. 111, début | Sit memoria ejus in benedictione | Vérifier la référence de la formule ; traduction littérale seule ajoutée. |
 
 ## Questions résolues
 
@@ -71,7 +74,6 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q042 — résolue | Vue 40, droite, p. 81 | Permanence du feu sacré | L’agrandissement donne « afin que ce feu sacré pût se perpétuer constamment dans la société qui alloit se former ». |
 | Q043 — résolue | Vue 41, gauche, p. 82 | Appel au lecteur | L’agrandissement donne « Lisez, Messieurs, Dieu seul connoît ce qui se passoit alors dans nos cœurs ». |
 | Q044 — résolue | Vue 41, droite, p. 83 | Unité des corps et des cœurs | L’agrandissement donne « ne font vraiment plus qu’un », avec « plus » ajouté au-dessus de la ligne. |
-
 | Q046 — résolue | Vue 42, droite, p. 85 | Qualification du P. Lambert | L’agrandissement donne « et de plus prédicateur distingué ». La première saisie a été corrigée. |
 | Q047 — résolue | Vue 42, droite, p. 85 | Nom du second religieux | L’agrandissement montre « le P. Glorieux, aujourd’hui jésuite ». Le nom est transcrit sans identification extérieure. |
 | Q049 — résolue | Vue 43, droite, p. 87 | Appel de saint Pothin | L’agrandissement donne « le Seigneur voulut appeler notre apôtre à concourir ». Aucun « ce » supplémentaire. |
@@ -81,6 +83,14 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q053 — résolue | Vue 45, gauche, p. 90 | Désignation du trésorier | Le scan donne « et l’écrivain, trésorier ». Il ne s’agit pas d’un nom propre précédé de M. ; la désignation de l’auteur est conservée. |
 | Q054 — résolue | Vue 45, gauche, p. 90 | Comparaison du nombre des reçus | L’agrandissement donne « ceux qui alloient être reçus étoient presque aussi nombreux que ceux qui se disposoient à les recevoir ». Première saisie corrigée. |
 | Q055 — résolue | Vue 45, gauche, p. 90 | Inquiétude sur l’autorité du règlement | L’agrandissement donne « une société si novice encore avoit bien quelque raison de craindre ». Première saisie corrigée. |
+
+| Q058 — résolue | Vue 47, droite, p. 95 | Rôle de la première section | L’agrandissement donne « cela fut trouvé insuffisant ; on confia donc ce soin à cette première section. On ajouta celui de travailler à la conversion de la jeunesse ». Première lecture corrigée. |
+| Q059 — résolue | Vue 47, droite, p. 95 | Construction de la phrase sur les sections | L’agrandissement donne « la manière dont cet arrêté a établi les sections ». Première saisie corrigée. |
+| Q061 — résolue | Vue 49, droite, p. 99 | Répétition après ô ma mère | L’agrandissement donne « nous, nous qui sommes vos enfants ». Répétition conservée. |
+| Q062 — résolue | Vue 53, droite, p. 107 et vue 55, gauche, p. 110 | Nom de du Coin | Le corps montre « Bertaud du Coin » et la marge p. 110 « Bertaud du Coin ». La graphie Bertaud est conservée sans identification extérieure. |
+| Q063 — résolue | Vue 54, gauche, p. 108 | Retour éventuel à ce portrait | L’agrandissement donne « mais comme l’occasion ne se représentera peut-être pas ». Le mot est coupé entre deux lignes ; première saisie corrigée. |
+| Q064 — résolue | Vue 55, gauche, p. 110 | Bourse conservée après la mort | L’agrandissement donne « la bourse qui se trouva sur lui à ce dernier moment ». Première saisie corrigée. |
+| Q065 — résolue | Vue 55, droite, p. 111 | Invitation devant la gravure | L’agrandissement donne « En la considérant saluons Marie, remercions-la ». Première saisie corrigée. |
 
 ## Principes appliqués
 
