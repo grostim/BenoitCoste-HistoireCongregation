@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les six premiers chapitres de l’histoire (p. 77–186, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les sept premiers chapitres de l’histoire (p. 77–202), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -45,7 +45,6 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q068 | Vue 59, droite, p. 119 | Exurgat Deus et dissipentur inimici ejus […] | Confirmer la graphie et la référence de la citation avant de préciser celle-ci en note. La traduction française qui suit dans le manuscrit est conservée comme texte de l’auteur ; la traduction littérale ajoutée est distincte. |
 | Q082 | Vue 69, droite, p. 139 | Discite a me quia mitis sum et humilis corde | Vérifier la référence de cette citation avant de la préciser en note ; traduction littérale seule ajoutée. |
 | Q083 | Vue 71, gauche, p. 142 | Paris lui avoit les avances | Confirmer si un mot est omis ou peu lisible avant « les avances ». La tournure lue reste conservée, sans ajout silencieux de « fait ». |
-| Q089 | Vues 75, droite, p. 151 ; 81, droite, p. 163 ; 82, droite, p. 165 | Nom du président de la section des aumônes | Confirmer la graphie proposée « Ducain ». Les trois occurrences ont été agrandies ; le nom reste signalé incertain sans identification extérieure. |
 | Q091 | Vue 79, gauche, p. 158 | « les aumônes sollicitées pour un St prêtre en leur faveur » | Confirmer le raccord « pour un St prêtre », dont la préposition surprend. Pas de remplacement silencieux par « par ». |
 
 | Q105 | Vue 85, droite, p. 171 | « Des lapins porteurs d’ordres » | Confirmer le mot proposé « lapins », possiblement imagé, avant « porteurs d’ordres ». La lecture reste signalée sans remplacement par « courriers ». |
@@ -147,6 +146,25 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q117 — résolue | Vue 91, droite, p. 183 | Panorama depuis Fourvières | L’agrandissement donne « les gracieux détours du cours de la Saône ». Première saisie corrigée. |
 
 | Q118 — résolue | Vue 87, gauche, p. 174 | Désir de retour au bercail | L’agrandissement donne « malgré eux ils éprouvoient au fond du cœur, un secret désir de rentrer enfin dans ce bienheureux bercail ». Première saisie corrigée. |
+
+| Q089 | Vues 75, droite, p. 151 ; 81, droite, p. 163 ; 82, droite, p. 165 ; 97, droite, p. 195 | Nom du président de la section des aumônes | Résolue : « Ducoin ». Les deux occurrences plus nettes p. 195, comparées aux trois agrandissements antérieurs, permettent de lire la même graphie. Les cinq occurrences sont harmonisées ; aucune identité extérieure n’est déduite. |
+| Q120 | Vue 94, gauche, p. 188 | Observation du zèle de Philpin | Résolue sur l’agrandissement : « je le vis se porter avec tant d’ardeur ». |
+| Q121 | Vue 94, droite, p. 189 | Attitude du gouvernement | Résolue : « Le gouvernement s’apprêtoit à devenir prochainement persécuteur ». L’agrandissement ne porte pas « de Napoléon » dans cette phrase ; cet ajout du brouillon a été retiré. |
+| Q122 | Vue 94, gauche, p. 188 | Qualités du congréganiste | Résolue sur l’agrandissement : « tout ce qui peut faire à un degré éminent un bon congréganiste ». |
+| Q123 | Vue 96, droite, p. 193 | Prudence de Fournier | Résolue : « pour qu’il n’offrît aucun prétexte plausible de sévir contre lui », confirmé sur l’agrandissement. |
+| Q124 | Vue 96, droite, p. 193 | Moyen employé par Napoléon | Résolue sur l’agrandissement : « Au lieu d’user de violence ». |
+| Q125 | Vue 97, gauche, p. 194 | Éclairage de l’assemblée | Résolue : « quoiqu’au milieu du jour l’assemblée se tint aux flambeaux ». La ponctuation est harmonisée ; aucune lacune n’est restituée. |
+| Q126 | Vue 97, gauche, p. 194 | Usage conservé pour les évêques | Résolue sur l’agrandissement : « c’est ainsi que cela se pratique encore ». |
+| Q127 | Vue 98, gauche, p. 196, début | Admission de Brette | Résolue après inspection de la page : « comme congréganiste de Lyon qu’il fut admis ». Un raccord de travail non établi sur l’image a été retiré et remplacé par ces mots lus. |
+| Q128 | Vue 98, droite, p. 197 | Accueil des congréganistes étrangers | Résolue sur l’agrandissement : « qui nous étoient associés » ; ils obtenoient « la faveur de venir seconder et animer le zèle lyonnais, par l’exemple du leur ». |
+| Q129 | Vue 98, droite, p. 197 | Permission accordée à Forbin-Janson | Résolue sur l’agrandissement : « on lui accorda la permission ». |
+| Q130 | Vue 98, droite, p. 197 | Allocutions de Forbin-Janson | Résolue sur l’agrandissement : « chaque fois il s’efforce de faire pénétrer dans nos cœurs ». |
+| Q131 | Vue 99, gauche, p. 198 | Fixation du domicile | Résolue : « un état qui rendît le domicile où ils se trouveroient le lieu irrévocable de leur demeure ». Agrandissement du bas de page ; la syntaxe de la source est conservée. |
+| Q132 | Vue 99, droite, p. 199 | Solidarité des membres mariés | Résolue sur l’agrandissement : « Ceux donc à qui le scrutin de ces Messieurs fut favorable crurent ne pas devoir ainsi abandonner leurs frères ». |
+| Q133 | Vue 100, droite, p. 201 | Réunion à la Venerie | Résolue : « On s’y rendoit le cœur plein de la douce joie » ; suite « et leur esprit disposé à donner un libre cours ». Agrandissements du bas de page. |
+| Q134 | Vue 99, gauche, p. 198 | Obstacles au projet de Noailles | Résolue sur l’agrandissement : « mais trop d’obstacles s’y opposoient ». La lecture de travail « d’attaches » est corrigée. |
+| Q135 | Vue 93, droite, p. 187 | Nom développé de Philpin | Résolue : « Philpin de Rivière », confirmé par l’agrandissement de la ligne ; pas d’identification extérieure ajoutée. |
+| Q136 | Vue 98, droite, p. 197, bas | Visites de Noailles | Résolue sur l’agrandissement : « lorsqu’il retrouvoit ses frères de Lyon et pouvoit partager leurs bonnes œuvres ». |
 
 ## Principes appliqués
 
