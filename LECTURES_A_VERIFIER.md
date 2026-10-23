@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les onze premiers chapitres de l’histoire (p. 77–269, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les douze premiers chapitres de l’histoire (p. 77–282, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -52,11 +52,15 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q140 | Vue 105, gauche, p. 210, bas | « et […] l’espérance de le rendre à la vie » | Confirmer le mot proposé « donner » ; graphie ambiguë malgré l’agrandissement, signalée dans le texte. |
 | Q146 | Vue 110, droite, p. 221 ; vue 67, gauche, p. 134 | Nom du directeur de Paris | La nouvelle occurrence se lit « Delpuy », alors que la précédente a été transcrite « Delpu » sous Q079. Vérifier s’il s’agit d’une variation de graphie de la source ; conserver les deux formes sans les aligner sur une identité présumée. |
 | Q151 | Vue 115, droite, p. 231 ; vue 116, gauche, p. 232 | Nom du vicaire général | Confirmer la graphie proposée « Caburra », laissée incertaine dans les trois occurrences ; les lettres finales restent difficiles malgré l’agrandissement. |
-
 | Q171 | Vue 130, gauche, p. 260 | « Respice Stellam, voca Mariam » | Vérifier la source avant d’ajouter une référence précise. Traduction littérale seule : « Regarde l’étoile, invoque Marie ». |
 | Q174 | Vue 129, droite, p. 259, bas | « par eux-mêmes ils […] étoient foibles » | Des traces pâles précèdent « étoient » ; s’agit-il d’une négation effacée ou encore active ? La lecture est explicitement incertaine dans le texte. Agrandissement `chap11-259-faibles.png`. |
 | Q179 | Vue 134, gauche, p. 268 | « sous les verroux / les chaînes » | Déterminer la portée de la correction : les deux groupes sont visibles, avec un trait traversant le premier. Le texte signale l’incertitude plutôt que de choisir silencieusement. Agrandissement `chap11-268-reelection.png`. |
 | Q180 | Vue 131, gauche, p. 262, marge et corps | Troisième dimanche de juillet | La marge porte « Célébration du 3e dimanche de juillet 1812 », alors que le récit évoque ensuite la seconde année et le retour de cette date « en 1812 ». Distinguer la lecture certaine des deux mentions et leur articulation chronologique ; aucune date n’est corrigée. |
+| Q183 | Vue 136, droite, p. 273 | « cherchoit à […] rattacher » | Une retouche suit la préposition « à ». Confirmer le verbe proposé « rattacher » et la présence éventuelle d’un pronom ; signalement conservé dans le corps. Agrandissement `chap12-273-nom.png`. |
+| Q186 | Vue 137, gauche, p. 274 | Santé du pape | Le groupe après « le Pape » et avant « en très bonne santé » ressemble à « est pour », mais la construction reste surprenante. Confirmer les lettres ou une éventuelle correction ; ne pas réécrire silencieusement en « se porte ». Agrandissements `chap12-274-sante.png` et `chap12-274-sante-hires.png` à partir d’un rendu de 6000 pixels. |
+| Q189 | Vue 138, droite, p. 277 | Apostrophe après la citation sur les destins | Confirmer le premier mot proposé « Conséquent » avant « orgueilleux ! » ; la première lecture « Incompréhensible » est retirée. Agrandissement `chap12-277-orgueilleux.png` ; mot explicitement incertain dans le texte. |
+| Q190 | Vue 140, gauche, p. 280 | « Tu es Petrus et super hanc petram, ædificabo Ecclesiam meam » | Vérifier la source avant de donner une référence précise. Traduction littérale seule ajoutée : « Tu es Pierre, et sur cette pierre je bâtirai mon Église ». |
+| Q192 | Vue 138, droite, p. 277, fin et vue 139, gauche, p. 278, début | « la colère de / l’attend » | Un mot semble omis entre les deux pages. Les agrandissements `chap12-277-fin.png` et `chap12-278-debut.png` ne montrent pas de complément à « de ». Lacune signalée sans restitution ; vérifier sur l’original si un ajout marginal ou intercalaire existe. |
 
 ## Questions résolues
 
@@ -185,9 +189,7 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q155 | Vue 115, droite, p. 231, bas | Secours des supérieurs | Résolue sur l’agrandissement : « pour que ses chefs rencontrassent dans la personne de M. […] » et « qui avoit alors des pouvoirs de vicaire général ». La phrase continue p. 232 ; le nom reste réservé sous Q151. |
 | Q156 | Vue 116, droite, p. 233, dernière ligne | Explication de la transformation | Résolue : « Le mal vint essentiellement de ce qu’on ne considéra », raccordé au début de p. 234 « pas assez la Congrégation ». |
 | Q158 | Vue 117, droite, p. 235, début | Reprise après le panorama | Résolue sur l’agrandissement : « La voilà donc censée dissoute, dès lors il ne fut plus question ». |
-
 | Q157 | Vue 118, gauche, p. 236 | Prières et épreuves | Résolue sur un agrandissement resserré de la ligne : « Ces prières étoient entendues, un jour elles seront exaucées ». La première lecture incohérente est retirée ; les deux temps verbaux de la source sont conservés. |
-
 | Q159 | Vue 118, gauche, p. 236, sous-titre | Nom à la fin du sous-titre | Résolue sur l’agrandissement : « Arrestation et captivité de MM. Franchet et du Coin ». La fin est visible sur la moitié gauche complète ; aucune restitution à partir du récit n’est nécessaire. |
 | Q160 | Vue 119, gauche, p. 238, bas | Entretien avec le pape | Résolue : « il a pu l’entretenir de cette multitude de prêtres et de simples fidèles ». Le verbe n’est pas absent ; la première lecture « par l’entremise » est corrigée. |
 | Q161 | Vue 119, droite, p. 239 | Dévouement des membres | Résolue sur l’agrandissement : « disposés à se lever à l’envi pour faire de leurs corps un rempart ». |
@@ -200,13 +202,22 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q168 | Vue 125, droite, p. 251 | Réaction des persécuteurs | Résolue sur l’agrandissement : « Ses persécuteurs étoient vaincus ; il ne leur étoit pas donné de concevoir quelle force une âme entièrement soumise et résignée […] ». |
 | Q169 | Vue 125, droite, p. 251 | Changement de quartier | Résolue : « l’âme est si pure et si loyale » et « cette classe hideuse et dégoûtante ». Agrandissement de la description ; « morale » / « chasse » du brouillon sont retirés. |
 | Q170 | Vue 126, gauche, p. 252 | Réunion des captifs | Résolue sur les deux agrandissements : « Là comme ailleurs, et peut-être mieux qu’ailleurs on comprend les douceurs qui sont attachées à l’Ecce quam bonum et quam jucundum ». Traduction littérale ajoutée ; référence réservée sous Q036. |
-
 | Q172 | Vue 128, droite, p. 257 | Promenades et police | Résolue sur `chap11-257-milieu.png` : « en dépit des nuées d’espions de police dont la ville étoit alors inondée ». La première lecture de travail est retirée. |
 | Q173 | Vue 129, droite, p. 259, haut | Assistants et présidence des sections | Résolue sur `chap11-259-haut.png` : « sans les décharger […] dérogeant ainsi à l’usage établi depuis bien des années, de ne pas comprendre les assistants dans le nombre des membres classés dans les sections ». Les assistants conservent leur section ; les mots sont établis par les lettres du scan. |
 | Q175 | Vue 129, gauche, p. 258 | « Ce nomination » | La source porte bien « Ce nomination appartenoit au Préfet », sans les lettres finales de « Cette ». Forme conservée sans correction grammaticale. Agrandissement `chap11-258-nomination.png`. |
 | Q176 | Vue 131, droite, p. 263, bas | Désignation de la fête | Résolue sur `chap11-263-fete.png` : « de cette belle fête ». La lecture de travail « bien fête » est retirée. |
 | Q177 | Vue 132, gauche, p. 264, haut | Rôle du vice-préfet dans les réunions | Résolue sur `chap11-264-representant.png`, avec le mot coupé entre deux lignes : « il paroissoit partout comme l’expression des mêmes sentiments ». Lecture de travail « puisoit » retirée. |
 | Q178 | Vue 133, gauche, p. 266 | Fleury Richard et son activité | Nom « Fleury Richard » et expression « dont la généreuse activité s’étendoit même au delà du possible » confirmés par `chap11-266-richard.png`. Aucune identification extérieure n’est ajoutée. |
+| Q181 | Vue 136, droite, p. 273 et vue 137, gauche, p. 274 | Nom de l’associé chambellan | « M. de Rohan chabot », puis « M. de Rohan » : graphies confirmées sur les occurrences et `chap12-273-nom.png`. Pas d’identification extérieure ajoutée. |
+| Q182 | Vue 135, droite, p. 271 | Chaînes du cardinal et ferveur | Agrandissements `chap12-271-haut.png` et `chap12-271-ferveur.png` : « qui avoient placé celui qui les avoit portées au nombre des confesseurs » et « la ferveur de tous se sentoit renouvelée ». Lecture conditionnelle du brouillon retirée. |
+| Q184 | Vue 135, gauche, p. 270 | Rendez-vous à Saint-François | Résolue sur `chap12-270-communique.png` : « Tous ceux qui purent être avertis se gardèrent bien de manquer à ce pieux rendez-vous ». Lecture de travail « s’empressèrent » retirée. |
+| Q185 | Vue 136, gauche/droite, p. 272–273 | Présentation au cardinal et billet | `chap12-272-hommes.png` : « étoient des hommes dévoués de cœur et d’âme ». `chap12-273-aussitot.png` : « un billet ainsi conçu », puis « Aussitôt le Vice Préfet y accourut ». |
+| Q187 | Vue 137, droite, p. 275 | Réflexion sur l’orgueil | Résolue sur `chap12-275-orgueil.png` : « l’orgueil, ce premier né de l’enfer est ainsi fait, la plus mince résistance le jette dans un violent désespoir ». La ponctuation rend la séparation des propositions sans modifier les mots. |
+| Q188 | Vue 138, gauche, p. 276 | Appui sur les promesses | `chap12-276-promesses.png` : « Nous nous étions appuyés sur les promesses de J. C. ». La graphie initiale est abrégée ; expansion en « Nous », sans lecture « Ne ». |
+| Q191 | Vue 141, gauche, p. 282 | Fin du chapitre douzième | Limite vérifiée sur le scan et `chap12-282-fin.png` : le chapitre finit par « cette heureuse résurrection ». Le titre « Chapitre treizième » vient ensuite sur la même page ; cette vue reste partielle. |
+| Q193 | Vue 137, droite, p. 275 | Puissance spirituelle et pouvoir des clefs | Résolue sur le rendu de 6000 pixels, `chap12-275-pouvoir-hires.png` : « et tant que sa puissance spirituelle n’aura pas abaissé le pouvoir des clefs devant celui de l’aigle dévastateur ». Les premières lectures « pourra paralyser » sont retirées. |
+| Q194 | Vue 140, droite, p. 281 | Soins et activité des sections | Résolue sur `chap12-281-soins.png` : « trop de soins exigeoient de la part des membres une attention de tous les instants ». La première saisie « exigeant » est corrigée. |
+| Q195 | Vue 140, gauche, p. 280 | Lutte contre la tempête | `chap12-280-tempete.png` confirme « Napoléon luttoit en vain ». Orthographe historique conservée, lecture de travail « luttait » retirée. |
 
 ## Principes appliqués
 
