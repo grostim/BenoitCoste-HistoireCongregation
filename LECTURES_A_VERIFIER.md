@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et deux premiers chapitres (p. 9–27 puis 30–37), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et trois premiers chapitres (p. 9–27 puis 30–53), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -21,6 +21,13 @@ Lots transcrits : pièces liminaires (p. 1–8) et deux premiers chapitres (p. 9
 | Q010 | Vue 13, gauche, p. 24 | Nom de l’archevêque | Confirmer la graphie manuscrite proposée « Marbœuf », sans la remplacer silencieusement par une graphie historique connue. |
 | Q011 | Vues 14–15, p. 27 puis 30 | Pages manuscrites 28–29 | Ces pages sont-elles conservées dans un autre scan ou dans l’original matériel ? Le PDF fourni saute directement de 27 à 30 à cet emplacement. La transcription signale la lacune sans restituer le passage. |
 
+| Q012 | Vue 21, gauche, p. 42 | Nom de l’abbé évoqué comme ami défunt | Confirmer la lecture proposée « Ripoud » et son identité. Le nom reste signalé dans le texte, sans remplacement à partir d’une identification historique supposée. |
+| Q013 | Vue 21, gauche, p. 42, bas | Dévotion commune dans les demeures éternelles | Confirmer l’invocation proposée « Ste mère de mon Sauveur » : les lettres avant « mère » restent difficiles. |
+| Q014 | Vue 22, gauche, p. 44 | Réflexion sur le rideau soulevé par Dieu | Vérifier la construction et le raccord de « Or ici Dieu qui dérobe ordinairement à nos yeux soulève un coin du rideau […] les ineffables secrets admirables ». Conserver les mots lus sans réécriture silencieuse de la syntaxe. |
+| Q015 | Vue 23, gauche, p. 46 | « À Deo factum est istud » | Confirmer le rapprochement biblique et sa référence avant de donner une citation précise. Traduction littérale seule ajoutée. La forme « À Deo » est celle du manuscrit. |
+| Q017 | Vue 23, droite, p. 47 | Date donnée pour la signature du concordat | La source porte « 15 août 1801 ». Distinguer la lecture de la date et la vérification historique ; ne pas corriger le manuscrit pour l’accorder à une chronologie extérieure. |
+| Q020 | Vue 26, gauche, p. 52 | « Dès que la tranquillité avoit commencé à paroître vouloir se rétablir en France » | Confirmer le raccord syntaxique entre « paroître » et « vouloir se rétablir » ; les deux expressions semblent présentes. |
+
 ## Questions résolues
 
 | ID | Source | Doute de la première saisie | Réponse et preuve |
@@ -35,6 +42,12 @@ Lots transcrits : pièces liminaires (p. 1–8) et deux premiers chapitres (p. 9
 | R007 | Vue 18, gauche, p. 36 | Départ du pontife vers la récompense | L’agrandissement donne « et fut recevoir la récompense ». Cette tournure est conservée. |
 
 | R008 | Vue 12, gauche, p. 22, milieu | Disposition transitoire des conseils | L’agrandissement donne « Mais pour le moment » et « un pouvoir dont ils eussent désiré ne jamais se départir ». La première saisie a été corrigée. |
+
+| Q016 — résolue | Vue 23, gauche, p. 46 | Objet de la ratification au ciel | L’agrandissement donne « que ce traité a été ratifié dans le ciel » ; la première lecture « la France » a été corrigée. |
+| Q018 — résolue | Vue 25, droite, p. 51 | Emplacement du reposoir | L’agrandissement donne « dans un galetas par les soins d’un pauvre ouvrier ou d’une dévideuse ». |
+| Q019 — résolue | Vue 26, gauche, p. 52 | Extension de l’établissement des frères | L’agrandissement donne « S’est étendu de là, comme vous le savez, dans toute la France et a forcé ceux-là même […] ». La ponctuation marque la majuscule de la reprise. |
+
+| R009 | Vue 21, droite, p. 43 | Phrase sur la plume et l’âme | L’agrandissement donne « ma plume trace en lignes sous sa dictée » ; la première lecture « tous ses désirs » a été corrigée. |
 
 ## Principes appliqués
 
