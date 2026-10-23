@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les trois premiers chapitres de l’histoire (p. 77–127), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatre premiers chapitres de l’histoire (p. 77–145, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -43,6 +43,8 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q060 | Vue 49, droite, p. 99 | Éphèse au 5e siècle et Lyon au 13e | Les chiffres 5 et 13 sont lisibles. Vérifier séparément la chronologie historique si une note est ajoutée ; ne pas corriger les chiffres de la source. |
 | Q066 | Vue 55, droite, p. 111, début | Sit memoria ejus in benedictione | Vérifier la référence de la formule ; traduction littérale seule ajoutée. |
 | Q068 | Vue 59, droite, p. 119 | Exurgat Deus et dissipentur inimici ejus […] | Confirmer la graphie et la référence de la citation avant de préciser celle-ci en note. La traduction française qui suit dans le manuscrit est conservée comme texte de l’auteur ; la traduction littérale ajoutée est distincte. |
+| Q082 | Vue 69, droite, p. 139 | Discite a me quia mitis sum et humilis corde | Vérifier la référence de cette citation avant de la préciser en note ; traduction littérale seule ajoutée. |
+| Q083 | Vue 71, gauche, p. 142 | Paris lui avoit les avances | Confirmer si un mot est omis ou peu lisible avant « les avances ». La tournure lue reste conservée, sans ajout silencieux de « fait ». |
 
 ## Questions résolues
 
@@ -99,6 +101,15 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q074 — résolue | Vue 63, gauche/droite, p. 126–127 | Comparaison avec le cri de guerre | L’agrandissement montre « C’étoit avec ce Montjoie St Denys de la Congrégation ». Première saisie corrigée ; graphie de la source conservée. |
 | Q075 — résolue | Vue 57, gauche, p. 114 | Effet de la lumière sur les aveugles | L’agrandissement donne « être éclairés par la véritable lumière », et non « éblouis ». Première saisie corrigée. |
 | Q076 — résolue | Vue 61, gauche, p. 122 | Réunion dans le cœur de Marie | L’agrandissement donne « pour assurer notre salut par la voie de l’amour avoit voulu nous réunir tous dans le cœur de sa mère ». Première saisie corrigée. |
+| Q077 — résolue | Vue 64, droite, p. 129 | Première action directe de la Providence | L’agrandissement donne « la Providence vint employer pour la première fois d’une manière directe la Congrégation à procurer sa gloire ». Première saisie corrigée. |
+| Q078 — résolue | Vue 65, droite, p. 131 | Constat à la Fête-Dieu de 1804 | L’agrandissement donne « on vit avec consolation ». Première saisie corrigée. |
+| Q079 — résolue | Vue 67, gauche, p. 134 | Nom du directeur de Paris | L’agrandissement montre « Le Père Delpu (c’étoit le nom de cet homme de Dieu) ». La graphie lue est conservée sans identification extérieure. |
+| Q080 — résolue | Vue 67, droite, p. 135 | Lecture des lettres après la messe | L’agrandissement donne « Après la messe on donnoit lecture des lettres des membres absents. Il n’y avoit ni réunions particulières […] ». Première saisie corrigée. |
+| Q081 — résolue | Vue 69, gauche, p. 138 | Nom porté par Montmorency | L’agrandissement donne « étoit porteur d’un nom ». Première saisie corrigée. |
+| Q084 — résolue | Vue 71, gauche, p. 142 | Nom de l’associé grenoblois | L’agrandissement montre « M. de St Ferreol ». Accent harmonisé dans la transcription ; aucune identification supplémentaire. |
+| Q085 — résolue | Vue 71, gauche, p. 142 | Emploi des revenus de Vidaud | L’agrandissement donne « il consacroit en entier ses revenus assez considérables ». Première saisie corrigée. |
+| Q086 — résolue | Vue 71, droite, p. 143 | Miracles attribués à Vidaud | L’agrandissement confirme « M. de Vidaud a été récemment en Savoie accusé d’avoir fait des miracles ». La formulation de l’auteur est conservée. |
+| Q087 — résolue | Vue 66, droite, p. 133 | Temps des verbes après la fondation de la fête | Lecture conservée : « Elle perpétuera par là le souvenir […] Elle perpétuait aussi le souvenir […] ». Les deux formes ne sont pas alignées silencieusement. |
 
 ## Principes appliqués
 
