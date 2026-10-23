@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les deux premiers chapitres de l’histoire (p. 77–111, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les trois premiers chapitres de l’histoire (p. 77–127), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -39,10 +39,10 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q045 | Vue 41, droite, p. 83 | « Sicut novellæ olivarum in circuitu mensæ tuæ » | Confirmer la terminaison de « novellæ » et la référence de la citation avant de la préciser en note ; traduction littérale proposée seule ajoutée. |
 | Q048 | Vue 43, gauche, p. 86, début | Aide à la confection du règlement | Le groupe après « et nous » et avant « parvenir beaucoup plus rapidement au bout de nos efforts » reste incertain. Il est laissé explicitement non restitué ; la première saisie a été écartée. |
 | Q056 | Vue 44, gauche/droite, p. 88–89 | Liste des sept fêtes | Confirmer le mot avant « immaculée », qui ressemble à « Congrégation » plutôt qu’à « Conception », et le décompte des sept fêtes annoncé par le manuscrit. Aucun intitulé supplémentaire n’est inventé. |
-
 | Q057 | Vue 46, droite, p. 93 | Gaudete in Domino semper ; Iterum dico, gaudete | Vérifier la référence de la citation avant de la préciser en note ; traduction littérale seule ajoutée. |
 | Q060 | Vue 49, droite, p. 99 | Éphèse au 5e siècle et Lyon au 13e | Les chiffres 5 et 13 sont lisibles. Vérifier séparément la chronologie historique si une note est ajoutée ; ne pas corriger les chiffres de la source. |
 | Q066 | Vue 55, droite, p. 111, début | Sit memoria ejus in benedictione | Vérifier la référence de la formule ; traduction littérale seule ajoutée. |
+| Q068 | Vue 59, droite, p. 119 | Exurgat Deus et dissipentur inimici ejus […] | Confirmer la graphie et la référence de la citation avant de préciser celle-ci en note. La traduction française qui suit dans le manuscrit est conservée comme texte de l’auteur ; la traduction littérale ajoutée est distincte. |
 
 ## Questions résolues
 
@@ -83,7 +83,6 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q053 — résolue | Vue 45, gauche, p. 90 | Désignation du trésorier | Le scan donne « et l’écrivain, trésorier ». Il ne s’agit pas d’un nom propre précédé de M. ; la désignation de l’auteur est conservée. |
 | Q054 — résolue | Vue 45, gauche, p. 90 | Comparaison du nombre des reçus | L’agrandissement donne « ceux qui alloient être reçus étoient presque aussi nombreux que ceux qui se disposoient à les recevoir ». Première saisie corrigée. |
 | Q055 — résolue | Vue 45, gauche, p. 90 | Inquiétude sur l’autorité du règlement | L’agrandissement donne « une société si novice encore avoit bien quelque raison de craindre ». Première saisie corrigée. |
-
 | Q058 — résolue | Vue 47, droite, p. 95 | Rôle de la première section | L’agrandissement donne « cela fut trouvé insuffisant ; on confia donc ce soin à cette première section. On ajouta celui de travailler à la conversion de la jeunesse ». Première lecture corrigée. |
 | Q059 — résolue | Vue 47, droite, p. 95 | Construction de la phrase sur les sections | L’agrandissement donne « la manière dont cet arrêté a établi les sections ». Première saisie corrigée. |
 | Q061 — résolue | Vue 49, droite, p. 99 | Répétition après ô ma mère | L’agrandissement donne « nous, nous qui sommes vos enfants ». Répétition conservée. |
@@ -91,6 +90,15 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q063 — résolue | Vue 54, gauche, p. 108 | Retour éventuel à ce portrait | L’agrandissement donne « mais comme l’occasion ne se représentera peut-être pas ». Le mot est coupé entre deux lignes ; première saisie corrigée. |
 | Q064 — résolue | Vue 55, gauche, p. 110 | Bourse conservée après la mort | L’agrandissement donne « la bourse qui se trouva sur lui à ce dernier moment ». Première saisie corrigée. |
 | Q065 — résolue | Vue 55, droite, p. 111 | Invitation devant la gravure | L’agrandissement donne « En la considérant saluons Marie, remercions-la ». Première saisie corrigée. |
+| Q067 — résolue | Vue 58, droite, p. 117 | Crainte du commissaire de police | L’agrandissement donne « nous ne serons pas les maîtres de contenir tous ces mécontents ». Première saisie corrigée. |
+| Q069 — résolue | Vue 60, gauche, p. 120 | Fonction du magistrat de Vaise | L’agrandissement montre « l’adjoint de Vaise ». Le nom personnel est inconnu de l’auteur, qui le dit expressément ; aucune identification n’est ajoutée. |
+| Q070 — résolue | Vue 60, droite, p. 121 | Temps de la Terreur | L’agrandissement donne « le temps de sinistre mémoire est passé ». Première saisie corrigée. |
+| Q071 — résolue | Vue 61, droite, p. 123 et vue 62, droite, p. 125 | Nom du curé des Chartreux | Les agrandissements donnent « Paul », et non la première proposition « Pinel ». Toutes les occurrences de ce lot ont été corrigées sans identification extérieure. |
+| Q072 — résolue | Vue 62, gauche, p. 124 | Ordre des mots de la citation latine | L’agrandissement donne « Ecce quam bonum et quam jucundum habitare fratres in unum ». Le corps est conservé dans cet ordre ; la référence reste à vérifier sous Q036. |
+| Q073 — résolue | Vue 62, droite, p. 125 | Justification des menus détails | L’agrandissement donne « pour que je ne me fasse pas un devoir d’entrer avec vous jusque dans les plus petits détails ». Première saisie corrigée. |
+| Q074 — résolue | Vue 63, gauche/droite, p. 126–127 | Comparaison avec le cri de guerre | L’agrandissement montre « C’étoit avec ce Montjoie St Denys de la Congrégation ». Première saisie corrigée ; graphie de la source conservée. |
+| Q075 — résolue | Vue 57, gauche, p. 114 | Effet de la lumière sur les aveugles | L’agrandissement donne « être éclairés par la véritable lumière », et non « éblouis ». Première saisie corrigée. |
+| Q076 — résolue | Vue 61, gauche, p. 122 | Réunion dans le cœur de Marie | L’agrandissement donne « pour assurer notre salut par la voie de l’amour avoit voulu nous réunir tous dans le cœur de sa mère ». Première saisie corrigée. |
 
 ## Principes appliqués
 
