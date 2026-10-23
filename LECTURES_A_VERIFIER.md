@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les sept premiers chapitres de l’histoire (p. 77–202), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les huit premiers chapitres de l’histoire (p. 77–217), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -50,6 +50,9 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q105 | Vue 85, droite, p. 171 | « Des lapins porteurs d’ordres » | Confirmer le mot proposé « lapins », possiblement imagé, avant « porteurs d’ordres ». La lecture reste signalée sans remplacement par « courriers ». |
 
 | Q119 | Vue 90, gauche, p. 180 ; vue 91, gauche, p. 182 ; vue 92, gauche, p. 184 | « Pendant les neuf beaux jours » | La durée lue « neuf » est conservée ; vérifier séparément son articulation avec le mardi de Pâques annoncé, le 19 avril et le départ donné le lendemain de Fourvières. Ne pas remplacer la durée par une chronologie extérieure sans distinguer la source. |
+
+| Q139 | Vue 103, droite, p. 207, première ligne | « la dédommager […] par la génération naissante » | Confirmer le mot proposé « surtout ». L’agrandissement confirme ensuite « des maux qu’elle avoit soufferts » ; le premier mot reste explicitement incertain. |
+| Q140 | Vue 105, gauche, p. 210, bas | « et […] l’espérance de le rendre à la vie » | Confirmer le mot proposé « donner » ; graphie ambiguë malgré l’agrandissement, signalée dans le texte. |
 
 ## Questions résolues
 
@@ -165,6 +168,13 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q134 | Vue 99, gauche, p. 198 | Obstacles au projet de Noailles | Résolue sur l’agrandissement : « mais trop d’obstacles s’y opposoient ». La lecture de travail « d’attaches » est corrigée. |
 | Q135 | Vue 93, droite, p. 187 | Nom développé de Philpin | Résolue : « Philpin de Rivière », confirmé par l’agrandissement de la ligne ; pas d’identification extérieure ajoutée. |
 | Q136 | Vue 98, droite, p. 197, bas | Visites de Noailles | Résolue sur l’agrandissement : « lorsqu’il retrouvoit ses frères de Lyon et pouvoit partager leurs bonnes œuvres ». |
+
+| Q137 | Vue 102, gauche, p. 204 | Protection de Marie | Résolue sur l’agrandissement : « Elle saura bien défendre notre… J’allois dire sa Congrégation, car elle lui appartient ». L’interruption est rendue par des points de suspension ; aucun esquif n’est ajouté. |
+| Q138 | Vue 104, droite, p. 209 | Jugement sur Bochard | Résolue sur l’agrandissement : « il ne sut malheureusement comprendre ni l’esprit qui avoit fondé notre Congrégation, ni celui qui la dirigeoit ». |
+| Q141 | Vue 105, droite, p. 211 | Soins de l’Hôtel-Dieu | Résolue : « on peut réunir autour de soi les soins les plus minutieux et toutes les ressources de l’art ». Lecture de la somme : « 12f par jour », mise en exposant du f dans la transcription. |
+| Q142 | Vue 105, droite, p. 211 | Mort de Deroche | Résolue sur l’agrandissement : « son heure étoit venue, la récompense l’attendoit ». La proposition de travail « reconnoissance » est corrigée. |
+| Q143 | Vue 107, droite, p. 215 | Consultation de théologiens | Résolue sur l’agrandissement : « et s’en étoit contenté ». Aucune constatation juridique n’est substituée à cette formulation. |
+| Q144 | Vue 108, droite, p. 217 | Indulgences | Résolue sur l’agrandissement : « les moyens d’expier nos fautes ». |
 
 ## Principes appliqués
 
