@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les huit premiers chapitres de l’histoire (p. 77–217), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les neuf premiers chapitres de l’histoire (p. 77–236, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -46,13 +46,12 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q082 | Vue 69, droite, p. 139 | Discite a me quia mitis sum et humilis corde | Vérifier la référence de cette citation avant de la préciser en note ; traduction littérale seule ajoutée. |
 | Q083 | Vue 71, gauche, p. 142 | Paris lui avoit les avances | Confirmer si un mot est omis ou peu lisible avant « les avances ». La tournure lue reste conservée, sans ajout silencieux de « fait ». |
 | Q091 | Vue 79, gauche, p. 158 | « les aumônes sollicitées pour un St prêtre en leur faveur » | Confirmer le raccord « pour un St prêtre », dont la préposition surprend. Pas de remplacement silencieux par « par ». |
-
 | Q105 | Vue 85, droite, p. 171 | « Des lapins porteurs d’ordres » | Confirmer le mot proposé « lapins », possiblement imagé, avant « porteurs d’ordres ». La lecture reste signalée sans remplacement par « courriers ». |
-
 | Q119 | Vue 90, gauche, p. 180 ; vue 91, gauche, p. 182 ; vue 92, gauche, p. 184 | « Pendant les neuf beaux jours » | La durée lue « neuf » est conservée ; vérifier séparément son articulation avec le mardi de Pâques annoncé, le 19 avril et le départ donné le lendemain de Fourvières. Ne pas remplacer la durée par une chronologie extérieure sans distinguer la source. |
-
 | Q139 | Vue 103, droite, p. 207, première ligne | « la dédommager […] par la génération naissante » | Confirmer le mot proposé « surtout ». L’agrandissement confirme ensuite « des maux qu’elle avoit soufferts » ; le premier mot reste explicitement incertain. |
 | Q140 | Vue 105, gauche, p. 210, bas | « et […] l’espérance de le rendre à la vie » | Confirmer le mot proposé « donner » ; graphie ambiguë malgré l’agrandissement, signalée dans le texte. |
+| Q146 | Vue 110, droite, p. 221 ; vue 67, gauche, p. 134 | Nom du directeur de Paris | La nouvelle occurrence se lit « Delpuy », alors que la précédente a été transcrite « Delpu » sous Q079. Vérifier s’il s’agit d’une variation de graphie de la source ; conserver les deux formes sans les aligner sur une identité présumée. |
+| Q151 | Vue 115, droite, p. 231 ; vue 116, gauche, p. 232 | Nom du vicaire général | Confirmer la graphie proposée « Caburra », laissée incertaine dans les trois occurrences ; les lettres finales restent difficiles malgré l’agrandissement. |
 
 ## Questions résolues
 
@@ -130,7 +129,6 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q099 — résolue | Vue 80, gauche, p. 160 | Produit de la première fonte | L’agrandissement donne « la première a rendu environ 400 f. et la seconde 240 ». Première saisie corrigée. |
 | Q100 — résolue | Vue 74, droite, p. 149 | Début du récit des travaux de l’instruction | L’agrandissement donne « dès l’origine, la section de l’instruction avoit commencé l’exercice de ses fonctions ». Première saisie corrigée. |
 | Q101 — résolue | Vue 76, gauche, p. 152 | Présentation de la femme Martin | L’agrandissement donne « il y avoit un personnage qui pour notre société est tout à fait historique ». Première saisie corrigée. |
-
 | Q102 — résolue | Vue 84, droite, p. 169 | Part souhaitée par la Congrégation dans l’accueil | L’agrandissement donne « pouvoir prendre elle-même directement une part active ». Première saisie corrigée. |
 | Q103 — résolue | Vue 85, gauche, p. 170 | Date attendue de l’arrivée du pape | L’agrandissement donne « le 10, 9bre », suivi de « jour où le pape devoit être à Lyon ». L’abréviation de la source est conservée. |
 | Q104 — résolue | Vue 85, gauche, p. 170 | Nom du premier vicaire général | L’agrandissement montre « M. Jauffret ». Graphie retenue sans identification extérieure supplémentaire. |
@@ -141,15 +139,12 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q111 — résolue | Vue 90, gauche, p. 180 | Deux congréganistes restés dans le cortège | L’agrandissement donne « MM. Eugène Roth et Loras ». Les noms sont conservés sans identification extérieure. |
 | Q112 — résolue | Vue 90, gauche, p. 180 | Attachement de la Congrégation au pape | L’agrandissement donne « car c’est ainsi que bien ardente, dans la bonne comme dans la mauvaise fortune elle est restée […] ». Première saisie corrigée. |
 | Q113 — résolue | Vue 91, droite, p. 183 | Prêtres portant la litière du pape | L’agrandissement donne « MM. Caille, frères, et tous deux prêtres ». Il ne s’agit pas d’une liste de nouveaux patronymes. Première saisie corrigée. |
-
 | Q109 — résolue | Vue 87, droite, p. 175 | Voix de Noailles sur le parvis de St Sulpice | Le nouvel agrandissement donne « il emploie toute l’énergie de ses poumons à grossir son organe ». Première saisie corrigée et réserve levée. |
 | Q114 — résolue | Vue 88, droite, p. 177 | Défense de se rendre à St Jean | L’agrandissement donne « Par respect à Napoléon », et non la première proposition « Par représailles à Napoléon ». La préposition lue est conservée. |
 | Q115 — résolue | Vue 90, gauche, p. 180 | Hosties prévues pour la communion | L’agrandissement donne « quoique dans la prévision de cette affluence on eût consacré d’avance beaucoup d’hosties ». Le « on » supplémentaire de la première saisie est retiré. |
 | Q116 — résolue | Vue 91, gauche, p. 182 | Arc-en-ciel au retour de la promenade | L’agrandissement donne « ce symbole de paix est l’arc de triomphe ». Première saisie corrigée. |
 | Q117 — résolue | Vue 91, droite, p. 183 | Panorama depuis Fourvières | L’agrandissement donne « les gracieux détours du cours de la Saône ». Première saisie corrigée. |
-
 | Q118 — résolue | Vue 87, gauche, p. 174 | Désir de retour au bercail | L’agrandissement donne « malgré eux ils éprouvoient au fond du cœur, un secret désir de rentrer enfin dans ce bienheureux bercail ». Première saisie corrigée. |
-
 | Q089 | Vues 75, droite, p. 151 ; 81, droite, p. 163 ; 82, droite, p. 165 ; 97, droite, p. 195 | Nom du président de la section des aumônes | Résolue : « Ducoin ». Les deux occurrences plus nettes p. 195, comparées aux trois agrandissements antérieurs, permettent de lire la même graphie. Les cinq occurrences sont harmonisées ; aucune identité extérieure n’est déduite. |
 | Q120 | Vue 94, gauche, p. 188 | Observation du zèle de Philpin | Résolue sur l’agrandissement : « je le vis se porter avec tant d’ardeur ». |
 | Q121 | Vue 94, droite, p. 189 | Attitude du gouvernement | Résolue : « Le gouvernement s’apprêtoit à devenir prochainement persécuteur ». L’agrandissement ne porte pas « de Napoléon » dans cette phrase ; cet ajout du brouillon a été retiré. |
@@ -168,13 +163,25 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q134 | Vue 99, gauche, p. 198 | Obstacles au projet de Noailles | Résolue sur l’agrandissement : « mais trop d’obstacles s’y opposoient ». La lecture de travail « d’attaches » est corrigée. |
 | Q135 | Vue 93, droite, p. 187 | Nom développé de Philpin | Résolue : « Philpin de Rivière », confirmé par l’agrandissement de la ligne ; pas d’identification extérieure ajoutée. |
 | Q136 | Vue 98, droite, p. 197, bas | Visites de Noailles | Résolue sur l’agrandissement : « lorsqu’il retrouvoit ses frères de Lyon et pouvoit partager leurs bonnes œuvres ». |
-
 | Q137 | Vue 102, gauche, p. 204 | Protection de Marie | Résolue sur l’agrandissement : « Elle saura bien défendre notre… J’allois dire sa Congrégation, car elle lui appartient ». L’interruption est rendue par des points de suspension ; aucun esquif n’est ajouté. |
 | Q138 | Vue 104, droite, p. 209 | Jugement sur Bochard | Résolue sur l’agrandissement : « il ne sut malheureusement comprendre ni l’esprit qui avoit fondé notre Congrégation, ni celui qui la dirigeoit ». |
 | Q141 | Vue 105, droite, p. 211 | Soins de l’Hôtel-Dieu | Résolue : « on peut réunir autour de soi les soins les plus minutieux et toutes les ressources de l’art ». Lecture de la somme : « 12f par jour », mise en exposant du f dans la transcription. |
 | Q142 | Vue 105, droite, p. 211 | Mort de Deroche | Résolue sur l’agrandissement : « son heure étoit venue, la récompense l’attendoit ». La proposition de travail « reconnoissance » est corrigée. |
 | Q143 | Vue 107, droite, p. 215 | Consultation de théologiens | Résolue sur l’agrandissement : « et s’en étoit contenté ». Aucune constatation juridique n’est substituée à cette formulation. |
 | Q144 | Vue 108, droite, p. 217 | Indulgences | Résolue sur l’agrandissement : « les moyens d’expier nos fautes ». |
+| Q145 | Vue 109, gauche, p. 218 | Couronne promise au préfet | Résolue sur l’agrandissement : « à celle des confesseurs ». Le groupe complète la phrase précédente ; il ne constitue pas le début de la suivante. |
+| Q147 | Vues 111–113, p. 222–226, corps et marge | Nom du commissaire général de police | Résolue : « Maillocheau », confirmé par la mention marginale p. 224 et les occurrences du dialogue. Les signalements provisoires sont levés, sans identification extérieure. |
+| Q148 | Vue 111, droite, p. 223 | Promesse de l’autorisation | Résolue sur l’agrandissement : « L’assurant que s’il ne s’y trouvoit rien de contraire aux intentions de l’empereur ». |
+| Q149 | Vue 111, droite, p. 223 | Prise de conscience de Bochard | Résolue sur l’agrandissement : « il put s’apercevoir dès lors qu’il pourroit bien se faire qu’il se fût trop avancé ». |
+| Q150 | Vue 112, droite, p. 225, fin ; vue 113, gauche, p. 226, début | Réponse du commissaire | Résolue sur l’agrandissement et le raccord des pages : « Eh bien, Monsieur, s’il en est ainsi demandez donc leur agrément ». |
+| Q152 | Vue 116, gauche, p. 232 | Second écueil | Résolue sur l’agrandissement : « de l’autre celui de s’exposer à être placé hors de l’obéissance et de la fidélité à toute épreuve ». Le masculin de « placé » lu dans la source est conservé. |
+| Q153 | Vue 116, gauche, p. 232 | Congrégations disparues | Résolue : « celle de Grenoble et le noyau formé à St Étienne ». Le nom de Mâcon proposé à la première saisie n’est pas sur cette ligne et a été retiré. |
+| Q154 | Vue 116, droite, p. 233 | Participation aux sociétés de charité | Résolue sur l’agrandissement : « faisoient pour la plupart partie de ces sociétés de charité ». |
+| Q155 | Vue 115, droite, p. 231, bas | Secours des supérieurs | Résolue sur l’agrandissement : « pour que ses chefs rencontrassent dans la personne de M. […] » et « qui avoit alors des pouvoirs de vicaire général ». La phrase continue p. 232 ; le nom reste réservé sous Q151. |
+| Q156 | Vue 116, droite, p. 233, dernière ligne | Explication de la transformation | Résolue : « Le mal vint essentiellement de ce qu’on ne considéra », raccordé au début de p. 234 « pas assez la Congrégation ». |
+| Q158 | Vue 117, droite, p. 235, début | Reprise après le panorama | Résolue sur l’agrandissement : « La voilà donc censée dissoute, dès lors il ne fut plus question ». |
+
+| Q157 | Vue 118, gauche, p. 236 | Prières et épreuves | Résolue sur un agrandissement resserré de la ligne : « Ces prières étoient entendues, un jour elles seront exaucées ». La première lecture incohérente est retirée ; les deux temps verbaux de la source sont conservés. |
 
 ## Principes appliqués
 
