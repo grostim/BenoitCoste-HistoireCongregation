@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis début du récit de la fondation (p. 77–83), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis chapitre de la fondation complet (p. 77–92, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -38,6 +38,9 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q041 | Vue 40, gauche, p. 80 | « celle-là n’enfantera pas la liberté ni la licence » | Le premier mot se lit « liberté » sur l’agrandissement ; confirmer cette lecture surprenante dans l’opposition avec la « véritable liberté » de la suite. La source n’est pas corrigée d’après le sens attendu. |
 | Q045 | Vue 41, droite, p. 83 | « Sicut novellæ olivarum in circuitu mensæ tuæ » | Confirmer la terminaison de « novellæ » et la référence de la citation avant de la préciser en note ; traduction littérale proposée seule ajoutée. |
 
+| Q048 | Vue 43, gauche, p. 86, début | Aide à la confection du règlement | Le groupe après « et nous » et avant « parvenir beaucoup plus rapidement au bout de nos efforts » reste incertain. Il est laissé explicitement non restitué ; la première saisie a été écartée. |
+| Q056 | Vue 44, gauche/droite, p. 88–89 | Liste des sept fêtes | Confirmer le mot avant « immaculée », qui ressemble à « Congrégation » plutôt qu’à « Conception », et le décompte des sept fêtes annoncé par le manuscrit. Aucun intitulé supplémentaire n’est inventé. |
+
 ## Questions résolues
 
 | ID | Source | Doute de la première saisie | Réponse et preuve |
@@ -68,6 +71,16 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q042 — résolue | Vue 40, droite, p. 81 | Permanence du feu sacré | L’agrandissement donne « afin que ce feu sacré pût se perpétuer constamment dans la société qui alloit se former ». |
 | Q043 — résolue | Vue 41, gauche, p. 82 | Appel au lecteur | L’agrandissement donne « Lisez, Messieurs, Dieu seul connoît ce qui se passoit alors dans nos cœurs ». |
 | Q044 — résolue | Vue 41, droite, p. 83 | Unité des corps et des cœurs | L’agrandissement donne « ne font vraiment plus qu’un », avec « plus » ajouté au-dessus de la ligne. |
+
+| Q046 — résolue | Vue 42, droite, p. 85 | Qualification du P. Lambert | L’agrandissement donne « et de plus prédicateur distingué ». La première saisie a été corrigée. |
+| Q047 — résolue | Vue 42, droite, p. 85 | Nom du second religieux | L’agrandissement montre « le P. Glorieux, aujourd’hui jésuite ». Le nom est transcrit sans identification extérieure. |
+| Q049 — résolue | Vue 43, droite, p. 87 | Appel de saint Pothin | L’agrandissement donne « le Seigneur voulut appeler notre apôtre à concourir ». Aucun « ce » supplémentaire. |
+| Q050 — résolue | Vue 44, droite, p. 89 | Travail préliminaire | L’agrandissement donne « On crut pouvoir supposer avec quelque espèce de raison ». Première saisie corrigée. |
+| Q051 — résolue | Vue 44, droite, p. 89 | Date d’élection annuelle | Deux chiffres 1 sont visibles : « le 11 août ». La première proposition « 4 août » a été corrigée. |
+| Q052 — résolue | Vue 44, droite, p. 89 | Nombre des dignitaires renouvelés | Le scan montre le chiffre 4 dans « deux d’entre les 4 dignitaires ». Transcrit en toutes lettres, sans correction du décompte. |
+| Q053 — résolue | Vue 45, gauche, p. 90 | Désignation du trésorier | Le scan donne « et l’écrivain, trésorier ». Il ne s’agit pas d’un nom propre précédé de M. ; la désignation de l’auteur est conservée. |
+| Q054 — résolue | Vue 45, gauche, p. 90 | Comparaison du nombre des reçus | L’agrandissement donne « ceux qui alloient être reçus étoient presque aussi nombreux que ceux qui se disposoient à les recevoir ». Première saisie corrigée. |
+| Q055 — résolue | Vue 45, gauche, p. 90 | Inquiétude sur l’autorité du règlement | L’agrandissement donne « une société si novice encore avoit bien quelque raison de craindre ». Première saisie corrigée. |
 
 ## Principes appliqués
 
