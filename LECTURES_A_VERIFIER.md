@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les dix premiers chapitres de l’histoire (p. 77–253, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les onze premiers chapitres de l’histoire (p. 77–269, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -52,6 +52,11 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q140 | Vue 105, gauche, p. 210, bas | « et […] l’espérance de le rendre à la vie » | Confirmer le mot proposé « donner » ; graphie ambiguë malgré l’agrandissement, signalée dans le texte. |
 | Q146 | Vue 110, droite, p. 221 ; vue 67, gauche, p. 134 | Nom du directeur de Paris | La nouvelle occurrence se lit « Delpuy », alors que la précédente a été transcrite « Delpu » sous Q079. Vérifier s’il s’agit d’une variation de graphie de la source ; conserver les deux formes sans les aligner sur une identité présumée. |
 | Q151 | Vue 115, droite, p. 231 ; vue 116, gauche, p. 232 | Nom du vicaire général | Confirmer la graphie proposée « Caburra », laissée incertaine dans les trois occurrences ; les lettres finales restent difficiles malgré l’agrandissement. |
+
+| Q171 | Vue 130, gauche, p. 260 | « Respice Stellam, voca Mariam » | Vérifier la source avant d’ajouter une référence précise. Traduction littérale seule : « Regarde l’étoile, invoque Marie ». |
+| Q174 | Vue 129, droite, p. 259, bas | « par eux-mêmes ils […] étoient foibles » | Des traces pâles précèdent « étoient » ; s’agit-il d’une négation effacée ou encore active ? La lecture est explicitement incertaine dans le texte. Agrandissement `chap11-259-faibles.png`. |
+| Q179 | Vue 134, gauche, p. 268 | « sous les verroux / les chaînes » | Déterminer la portée de la correction : les deux groupes sont visibles, avec un trait traversant le premier. Le texte signale l’incertitude plutôt que de choisir silencieusement. Agrandissement `chap11-268-reelection.png`. |
+| Q180 | Vue 131, gauche, p. 262, marge et corps | Troisième dimanche de juillet | La marge porte « Célébration du 3e dimanche de juillet 1812 », alors que le récit évoque ensuite la seconde année et le retour de cette date « en 1812 ». Distinguer la lecture certaine des deux mentions et leur articulation chronologique ; aucune date n’est corrigée. |
 
 ## Questions résolues
 
@@ -195,6 +200,13 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q168 | Vue 125, droite, p. 251 | Réaction des persécuteurs | Résolue sur l’agrandissement : « Ses persécuteurs étoient vaincus ; il ne leur étoit pas donné de concevoir quelle force une âme entièrement soumise et résignée […] ». |
 | Q169 | Vue 125, droite, p. 251 | Changement de quartier | Résolue : « l’âme est si pure et si loyale » et « cette classe hideuse et dégoûtante ». Agrandissement de la description ; « morale » / « chasse » du brouillon sont retirés. |
 | Q170 | Vue 126, gauche, p. 252 | Réunion des captifs | Résolue sur les deux agrandissements : « Là comme ailleurs, et peut-être mieux qu’ailleurs on comprend les douceurs qui sont attachées à l’Ecce quam bonum et quam jucundum ». Traduction littérale ajoutée ; référence réservée sous Q036. |
+
+| Q172 | Vue 128, droite, p. 257 | Promenades et police | Résolue sur `chap11-257-milieu.png` : « en dépit des nuées d’espions de police dont la ville étoit alors inondée ». La première lecture de travail est retirée. |
+| Q173 | Vue 129, droite, p. 259, haut | Assistants et présidence des sections | Résolue sur `chap11-259-haut.png` : « sans les décharger […] dérogeant ainsi à l’usage établi depuis bien des années, de ne pas comprendre les assistants dans le nombre des membres classés dans les sections ». Les assistants conservent leur section ; les mots sont établis par les lettres du scan. |
+| Q175 | Vue 129, gauche, p. 258 | « Ce nomination » | La source porte bien « Ce nomination appartenoit au Préfet », sans les lettres finales de « Cette ». Forme conservée sans correction grammaticale. Agrandissement `chap11-258-nomination.png`. |
+| Q176 | Vue 131, droite, p. 263, bas | Désignation de la fête | Résolue sur `chap11-263-fete.png` : « de cette belle fête ». La lecture de travail « bien fête » est retirée. |
+| Q177 | Vue 132, gauche, p. 264, haut | Rôle du vice-préfet dans les réunions | Résolue sur `chap11-264-representant.png`, avec le mot coupé entre deux lignes : « il paroissoit partout comme l’expression des mêmes sentiments ». Lecture de travail « puisoit » retirée. |
+| Q178 | Vue 133, gauche, p. 266 | Fleury Richard et son activité | Nom « Fleury Richard » et expression « dont la généreuse activité s’étendoit même au delà du possible » confirmés par `chap11-266-richard.png`. Aucune identification extérieure n’est ajoutée. |
 
 ## Principes appliqués
 
