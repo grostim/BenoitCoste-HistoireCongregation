@@ -1,9 +1,9 @@
 vue_pdf,volume,page_dans_volume,pagination_manuscrite_gauche,pagination_manuscrite_droite,statut,fichier_transcription,observations
-1,Histoire_Congregation_vues_001-060.pdf,1,sans numéro visible,1,à transcrire,,Repères vérifiés visuellement ; autres paginations à relever.
-2,Histoire_Congregation_vues_001-060.pdf,2,2,3,à transcrire,,Repères vérifiés visuellement ; autres paginations à relever.
-3,Histoire_Congregation_vues_001-060.pdf,3,,,à transcrire,,
-4,Histoire_Congregation_vues_001-060.pdf,4,,,à transcrire,,
-5,Histoire_Congregation_vues_001-060.pdf,5,,,à transcrire,,
+1,Histoire_Congregation_vues_001-060.pdf,1,sans numéro visible,1,transcrit,transcription/001-epitre.tex,"Lecture visuelle sans OCR ; gauche : transparences du verso, sans texte propre. Épître, début."
+2,Histoire_Congregation_vues_001-060.pdf,2,2,3,transcrit,transcription/texte.tex,Lecture visuelle sans OCR ; fin de l’épître puis début de l’adresse. Incertitude de lecture signalée.
+3,Histoire_Congregation_vues_001-060.pdf,3,4,5,transcrit,transcription/002-adresse.tex,Lecture visuelle sans OCR ; adresse complète. Citation latine incertaine signalée.
+4,Histoire_Congregation_vues_001-060.pdf,4,6,7,transcrit,transcription/003-plan.tex,"Lecture visuelle sans OCR ; plan de l’ouvrage, début. Relecture indépendante à effectuer."
+5,Histoire_Congregation_vues_001-060.pdf,5,8,9,en cours,transcription/003-plan.tex,"Lecture visuelle sans OCR ; côté gauche (p. 8) transcrit, côté droit (chapitre premier, p. 9) à transcrire."
 6,Histoire_Congregation_vues_001-060.pdf,6,,,à transcrire,,
 7,Histoire_Congregation_vues_001-060.pdf,7,,,à transcrire,,
 8,Histoire_Congregation_vues_001-060.pdf,8,,,à transcrire,,

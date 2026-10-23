@@ -8,9 +8,9 @@ Projet jumeau de [grostim/BenoitCoste](https://github.com/grostim/BenoitCoste) :
 
 Le nom éditorial du projet conserve l’accent. L’adresse GitHub utilise `BenoitCoste-HistoireCongregation` pour disposer d’une URL simple et stable.
 
-## État initial
+## État d’avancement
 
-**0 vue transcrite sur 182 ; transcription non commencée.** La première publication est un cadre éditorial compilable, pas une édition intégrale. Les 182 vues sont des pages du PDF, généralement des doubles pages du manuscrit. Elles ne correspondent pas à 182 pages manuscrites.
+**4 vues entièrement transcrites sur 182, plus le côté gauche de la vue 5 : pages manuscrites 1 à 8.** Ce premier lot comprend l’épître dédicatoire, l’adresse du 8 mai 1841 et le plan de l’ouvrage. Lecture directe avec la vision du modèle, sans OCR ; relecture indépendante à effectuer. Les lectures incertaines restent signalées. Le chapitre premier commence page manuscrite 9 (vue 5, côté droit) et reste à transcrire. Les 182 vues sont des pages du PDF, généralement des doubles pages du manuscrit. Elles ne correspondent pas à 182 pages manuscrites.
 
 Le titre est lisible au début du document. Le rattachement à Benoît Coste reprend le cadrage du projet ; l’attribution des parties, le découpage en chapitres et les changements de main restent à vérifier directement dans le manuscrit. Aucun contenu des Mémoires ni aucune annexe généalogique n’a été repris comme texte de cet ouvrage.
 
@@ -20,7 +20,7 @@ Le titre est lisible au début du document. Le rattachement à Benoît Coste rep
 - [Originaux/README.md](Originaux/README.md) : trois volumes de consultation et provenance.
 - [SUIVI_TRANSCRIPTION.csv](SUIVI_TRANSCRIPTION.csv) : une ligne par vue, repères du manuscrit et état de lecture.
 
-Le PDF ne comporte pas de couche de texte exploitable. La lecture du manuscrit devra être vérifiée visuellement ; un résultat OCR éventuel ne sera qu’une aide de travail.
+Le PDF ne comporte pas de couche de texte exploitable. La transcription se fait exclusivement avec la vision du modèle, par lecture directe des scans, sans OCR.
 
 ## Éditions de travail
 
