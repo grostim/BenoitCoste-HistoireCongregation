@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatre premiers chapitres de l’histoire (p. 77–145, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les cinq premiers chapitres de l’histoire (p. 77–166, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -45,6 +45,9 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q068 | Vue 59, droite, p. 119 | Exurgat Deus et dissipentur inimici ejus […] | Confirmer la graphie et la référence de la citation avant de préciser celle-ci en note. La traduction française qui suit dans le manuscrit est conservée comme texte de l’auteur ; la traduction littérale ajoutée est distincte. |
 | Q082 | Vue 69, droite, p. 139 | Discite a me quia mitis sum et humilis corde | Vérifier la référence de cette citation avant de la préciser en note ; traduction littérale seule ajoutée. |
 | Q083 | Vue 71, gauche, p. 142 | Paris lui avoit les avances | Confirmer si un mot est omis ou peu lisible avant « les avances ». La tournure lue reste conservée, sans ajout silencieux de « fait ». |
+
+| Q089 | Vues 75, droite, p. 151 ; 81, droite, p. 163 ; 82, droite, p. 165 | Nom du président de la section des aumônes | Confirmer la graphie proposée « Ducain ». Les trois occurrences ont été agrandies ; le nom reste signalé incertain sans identification extérieure. |
+| Q091 | Vue 79, gauche, p. 158 | « les aumônes sollicitées pour un St prêtre en leur faveur » | Confirmer le raccord « pour un St prêtre », dont la préposition surprend. Pas de remplacement silencieux par « par ». |
 
 ## Questions résolues
 
@@ -110,6 +113,22 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q085 — résolue | Vue 71, gauche, p. 142 | Emploi des revenus de Vidaud | L’agrandissement donne « il consacroit en entier ses revenus assez considérables ». Première saisie corrigée. |
 | Q086 — résolue | Vue 71, droite, p. 143 | Miracles attribués à Vidaud | L’agrandissement confirme « M. de Vidaud a été récemment en Savoie accusé d’avoir fait des miracles ». La formulation de l’auteur est conservée. |
 | Q087 — résolue | Vue 66, droite, p. 133 | Temps des verbes après la fondation de la fête | Lecture conservée : « Elle perpétuera par là le souvenir […] Elle perpétuait aussi le souvenir […] ». Les deux formes ne sont pas alignées silencieusement. |
+
+| Q088 — résolue | Vue 74, gauche, p. 148, marge | Intitulé de la section du zèle | L’agrandissement donne « Section du zèle mise hors ligne », et non « mise dans ligne ». Première saisie corrigée. |
+| Q090 — résolue | Vue 77, droite, p. 155 | Répétition du prénom Pierrette | L’agrandissement montre la fin de la présentation « elle s’appeloit Pierrette », puis la reprise « Pierrette donc animée ». Les occurrences des p. 156–157 confirment le prénom ; aucun nom de famille n’est restitué. |
+| Q092 — résolue | Vue 80, gauche, p. 160 | Objet de la quête des fausses monnaies | L’agrandissement donne « on fit la quête des écus faux », et non la proposition « de ce cuivre ». Première saisie corrigée. |
+| Q093 — résolue | Vue 76, gauche, p. 152 | Éclat de la section dans les premiers temps | L’agrandissement donne « qui dans les premiers temps de la Congrégation a brillé d’un si vif éclat ». Première saisie corrigée. |
+| Q094 — résolue | Vue 79, gauche, p. 158 | Description de l’entrée en prison | L’agrandissement donne « Qu’il fut affreux le spectacle que présenta alors à nos congréganistes l’intérieur de la prison ! ». Première saisie corrigée. |
+| Q095 — résolue | Vue 76, gauche, p. 152 | Anonymat des visiteurs des pauvres | Lecture finale : « on ne savoit pas leurs noms, on mettoit un grand soin à les laisser ignorer, mais on les honoroit ouvertement […] ». Le mot « car » est barré et n’est pas retenu. |
+
+| Q096 — résolue | Vue 76, gauche, p. 152 | Description des infirmités de la femme Martin | L’agrandissement donne « ses plaies étoient affreuses à voir, elles étoient dans un état de suppuration continuelle, exhaloient une odeur de putridité ». Première saisie corrigée. |
+| Q097 — résolue | Vue 77, gauche, p. 154 | Dernière évocation de la femme Martin | L’agrandissement donne « La femme Martin est enfin allée recevoir la récompense de sa résignation ». Première saisie corrigée. |
+| Q098 — résolue | Vue 76, gauche, p. 152 | Compte rendu des visites | L’agrandissement donne « et rendoient compte de leurs visites à la séance suivante ». Première saisie corrigée. |
+| Q099 — résolue | Vue 80, gauche, p. 160 | Produit de la première fonte | L’agrandissement donne « la première a rendu environ 400 f. et la seconde 240 ». Première saisie corrigée. |
+
+| Q100 — résolue | Vue 74, droite, p. 149 | Début du récit des travaux de l’instruction | L’agrandissement donne « dès l’origine, la section de l’instruction avoit commencé l’exercice de ses fonctions ». Première saisie corrigée. |
+
+| Q101 — résolue | Vue 76, gauche, p. 152 | Présentation de la femme Martin | L’agrandissement donne « il y avoit un personnage qui pour notre société est tout à fait historique ». Première saisie corrigée. |
 
 ## Principes appliqués
 
