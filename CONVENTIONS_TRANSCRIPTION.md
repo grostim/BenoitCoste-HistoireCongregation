@@ -40,11 +40,15 @@ Typographie française : accents et ligatures (`œ`, `æ`), espaces gérées par
 
 Statuts autorisés : `à transcrire`, `en cours`, `transcrit`, `relu`, `sans texte`. Une vue partiellement transcrite reste `en cours`. Une vue ne passe à `relu` qu’après comparaison de toute sa surface avec la source, notes et marges comprises. `sans texte` exige également une inspection visuelle.
 
+Toutes les questions et tous les doutes à lever sont centralisés dans `LECTURES_A_VERIFIER.md`, avec un identifiant stable, les repères de source, la question précise et son statut. Conserver les questions résolues avec la solution et la preuve de lecture ; ne pas les effacer.
+
 Le fichier de transcription et les observations doivent permettre de retrouver chaque passage. Relever les blancs, anomalies de pagination et changements de main au fil de la lecture. Un scan vierge ne doit pas être classé automatiquement.
 
 Avant validation : lancer `python3 scripts/check_project.py`, puis `make build`, vérifier le PDF, l’EPUB et le Markdown, et mettre à jour le suivi et la présentation du projet. Les contrôles automatiques vérifient la structure et les empreintes ; ils ne prouvent pas la justesse de la lecture.
 
 ## Versionnement et publication
+
+À la demande de Timothée Gros, chaque étape terminée et vérifiée fait l’objet d’un commit puis d’un push. Une étape de transcription inclut le texte, les repères, le suivi et les nouvelles questions. Ne pas attendre la fin du manuscrit pour publier les étapes.
 
 Commits conventionnels en français : `feat:`, `fix:`, `docs:`, `style:`, `refactor:`, `chore:`. Un nouveau lot transcrit correspond à un commit cohérent avec les repères sources et le suivi à jour.
 
