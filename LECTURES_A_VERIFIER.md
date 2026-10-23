@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Premier lot : pages manuscrites 1 à 8, lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et chapitre premier (p. 9–21, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -13,10 +13,17 @@ Premier lot : pages manuscrites 1 à 8, lues directement sur les images par la v
 | Q003 | Vue 4, droite, p. 7, dernière ligne | Mot de liaison avant « qu’il me », suite p. 8 | Le mot reste signalé `[mot incertain]` ; aucun raccord n’est inventé. |
 | Q004 | Ensemble du manuscrit | Attribution des parties et changements de main | Quelles parties sont explicitement attribuables à Benoît Coste, et quelles marques permettent d’identifier les autres rédacteurs ou copistes ? Ne pas déduire l’attribution du seul nom du projet. |
 | Q005 | Ensemble des 182 vues | Pagination manuscrite | Où se trouvent les sauts ou anomalies de numérotation entre la p. 1 et les p. 364–365 de la dernière vue ? Relever les numéros sur chaque scan, sans calcul automatique. |
+| Q006 | Vue 9, gauche, p. 16 et vue 7, gauche, p. 12 | Dates des massacres de septembre | La p. 12 porte « le 2 7bre », alors que la p. 16 porte « le 1er septembre ». Conserver les deux formes de la source ; une annotation historique éventuelle devra distinguer les événements concernés. |
+| Q007 | Vue 6, droite, p. 11 | « Un roi philosophe l’avoit dit » | À quel auteur et à quelle source renvoie la citation sur le gouvernement d’une province par des philosophes ? Ne pas attribuer la citation sans preuve. |
+| Q008 | Vue 10, droite, p. 19 | « de nouveaux Éléazar » | Confirmer l’allusion et sa référence avant d’ajouter une note explicative ; la lecture du nom est faite sur le scan, sans identification imposée à partir du contexte. |
 
 ## Questions résolues
 
-Aucune question encore clôturée dans ce registre.
+| ID | Source | Doute de la première saisie | Réponse et preuve |
+| --- | --- | --- | --- |
+| R001 | Vue 6, droite, p. 11 | Formulation du passage sur la prédiction des ministres | L’agrandissement visuel montre « le cœur oppressé de douleur » puis « une joie satanique ». La saisie de travail a été corrigée avant publication. |
+| R002 | Vue 7, gauche, p. 12 | Qualification des prêtres massacrés | L’agrandissement visuel montre « prisonniers et sans défense ». Pas de restitution d’après le seul contexte. |
+| R003 | Vue 11, droite, p. 21 | Début de la phrase sur l’arrestation de Robespierre | L’agrandissement visuel montre « Abandonné de tous les siens, il est arrêté ». La saisie de travail a été corrigée avant publication. |
 
 ## Principes appliqués
 
@@ -31,3 +38,5 @@ Les références ci-dessous servent uniquement à documenter les notes du transc
 - `Cor unum et anima una` : [Actes 4, 32, AELF](https://www.aelf.org/bible/Ac/4), « Un seul cœur et une seule âme. »
 
 Références consultées le 23 octobre 2026.
+
+- `Sursum corda` : [Présentation générale du Missel romain, § 148](https://press.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_fr.html), dialogue de la préface, « Élevons notre cœur ». Référence consultée le 23 octobre 2026 ; utilisée uniquement pour la note du transcripteur.

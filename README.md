@@ -10,7 +10,7 @@ Le nom éditorial du projet conserve l’accent. L’adresse GitHub utilise `Ben
 
 ## État d’avancement
 
-**4 vues entièrement transcrites sur 182, plus le côté gauche de la vue 5 : pages manuscrites 1 à 8.** Ce premier lot comprend l’épître dédicatoire, l’adresse du 8 mai 1841 et le plan de l’ouvrage. Lecture directe avec la vision du modèle, sans OCR ; relecture indépendante à effectuer. Les lectures incertaines restent signalées. Le chapitre premier commence page manuscrite 9 (vue 5, côté droit) et reste à transcrire. Les 182 vues sont des pages du PDF, généralement des doubles pages du manuscrit. Elles ne correspondent pas à 182 pages manuscrites.
+**10 vues entièrement transcrites sur 182, plus la vue 11 jusqu’à la fin du chapitre premier.** Le texte couvre les pages manuscrites 1 à 20 et le début de la p. 21 : épître dédicatoire, adresse du 8 mai 1841, plan de l’ouvrage et chapitre premier complet. Lecture directe avec la vision du modèle, sans OCR ; relecture indépendante à effectuer. Les lectures incertaines restent signalées dans le [registre dédié](LECTURES_A_VERIFIER.md). Le chapitre second commence en cours de page manuscrite 21 (vue 11, côté droit) et reste à transcrire. Les 182 vues sont des pages du PDF, généralement des doubles pages du manuscrit. Elles ne correspondent pas à 182 pages manuscrites.
 
 Le titre est lisible au début du document. Le rattachement à Benoît Coste reprend le cadrage du projet ; l’attribution des parties, le découpage en chapitres et les changements de main restent à vérifier directement dans le manuscrit. Aucun contenu des Mémoires ni aucune annexe généalogique n’a été repris comme texte de cet ouvrage.
 
