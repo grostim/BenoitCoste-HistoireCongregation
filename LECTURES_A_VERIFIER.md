@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les neuf premiers chapitres de l’histoire (p. 77–236, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les dix premiers chapitres de l’histoire (p. 77–253, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -182,6 +182,19 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q158 | Vue 117, droite, p. 235, début | Reprise après le panorama | Résolue sur l’agrandissement : « La voilà donc censée dissoute, dès lors il ne fut plus question ». |
 
 | Q157 | Vue 118, gauche, p. 236 | Prières et épreuves | Résolue sur un agrandissement resserré de la ligne : « Ces prières étoient entendues, un jour elles seront exaucées ». La première lecture incohérente est retirée ; les deux temps verbaux de la source sont conservés. |
+
+| Q159 | Vue 118, gauche, p. 236, sous-titre | Nom à la fin du sous-titre | Résolue sur l’agrandissement : « Arrestation et captivité de MM. Franchet et du Coin ». La fin est visible sur la moitié gauche complète ; aucune restitution à partir du récit n’est nécessaire. |
+| Q160 | Vue 119, gauche, p. 238, bas | Entretien avec le pape | Résolue : « il a pu l’entretenir de cette multitude de prêtres et de simples fidèles ». Le verbe n’est pas absent ; la première lecture « par l’entremise » est corrigée. |
+| Q161 | Vue 119, droite, p. 239 | Dévouement des membres | Résolue sur l’agrandissement : « disposés à se lever à l’envi pour faire de leurs corps un rempart ». |
+| Q162 | Vue 120, gauche, p. 240 | Presse impériale | Résolue sur l’agrandissement : « au mensonge, car le gouvernement qui tenoit la presse muselée ». |
+| Q163 | Vue 120, droite, p. 241 | Voix de Rome | Résolue sur l’agrandissement : « À peine la voix menaçante de Rome s’est-elle fait entendre que déjà le char de la victoire semble se ralentir ». |
+| Q164 | Vue 118, droite, p. 237 | Choix des membres | Résolue après nouvelle inspection de la ligne : « il a désigné lui-même parmi ses membres les athlètes ». La saisie « daigné » est corrigée. |
+| Q165 | Vue 122, droite, p. 245 | Risque couru par Noailles | Résolue : « qu’il avoit pris part à ce pieux complot. S’il se fût trouvé à Lyon au moment fatal ». Agrandissement du milieu de page. |
+| Q166 | Vue 122, gauche, p. 244 | Compartiment du secrétaire | Résolue sur l’agrandissement : « la cave du secrétaire. Cette cave n’étoit masquée en aucune manière ». La première saisie « case » / « marquée » est corrigée. |
+| Q167 | Vue 125, gauche, p. 250, dernière ligne | Isolement du Coin | Résolue sur l’agrandissement : « on le tint assez longtemps claquemuré dans un cachot ». |
+| Q168 | Vue 125, droite, p. 251 | Réaction des persécuteurs | Résolue sur l’agrandissement : « Ses persécuteurs étoient vaincus ; il ne leur étoit pas donné de concevoir quelle force une âme entièrement soumise et résignée […] ». |
+| Q169 | Vue 125, droite, p. 251 | Changement de quartier | Résolue : « l’âme est si pure et si loyale » et « cette classe hideuse et dégoûtante ». Agrandissement de la description ; « morale » / « chasse » du brouillon sont retirés. |
+| Q170 | Vue 126, gauche, p. 252 | Réunion des captifs | Résolue sur les deux agrandissements : « Là comme ailleurs, et peut-être mieux qu’ailleurs on comprend les douceurs qui sont attachées à l’Ecce quam bonum et quam jucundum ». Traduction littérale ajoutée ; référence réservée sous Q036. |
 
 ## Principes appliqués
 
