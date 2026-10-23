@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis début du récit de la fondation (p. 77–83), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -33,8 +33,10 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q034 | Vue 35, droite, p. 71, début | Une procession dans les cloîtres | Confirmer le raccord « les amis du monde, l’œil vigilant d’une police inquisitoriale » ; le second groupe est laissé incertain dans le texte. |
 | Q036 | Vues 36, gauche/droite, p. 72–73 | « Ecce quam bonum […] habitare fratres in unum » | Vérifier la référence de cette citation avant de la préciser en note. Traduction littérale seule ajoutée. |
 | Q037 | Vue 34, gauche, p. 68, bas | « les accents […] que le schisme ou le paganisme » | Confirmer l’adjectif proposé « chimères » ; la lecture reste signalée. |
-
 | Q025 | Vue 30, droite, p. 61 | Ouverture des Chartreux | L’amorce « celle qui fut peut-être l’occasion » est lisible ; confirmer le groupe qui suit, proposé « de la joie simultanée ». Une lecture autour du mot « zèle » reste possible. Le groupe est signalé incertain dans le texte. |
+| Q040 | Vue 39, droite, p. 79 | Proposition des nouveaux frères | Les noms Lallemand, Bori et Journoud sont lisibles et reviennent p. 81. Confirmer la syntaxe du raccord proposé « sur les propositions qui leur en fut faite » ; pas de réécriture grammaticale silencieuse. |
+| Q041 | Vue 40, gauche, p. 80 | « celle-là n’enfantera pas la liberté ni la licence » | Le premier mot se lit « liberté » sur l’agrandissement ; confirmer cette lecture surprenante dans l’opposition avec la « véritable liberté » de la suite. La source n’est pas corrigée d’après le sens attendu. |
+| Q045 | Vue 41, droite, p. 83 | « Sicut novellæ olivarum in circuitu mensæ tuæ » | Confirmer la terminaison de « novellæ » et la référence de la citation avant de la préciser en note ; traduction littérale proposée seule ajoutée. |
 
 ## Questions résolues
 
@@ -60,8 +62,12 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q032 — résolue | Vue 34, droite, p. 69 | Costume du prêtre | L’agrandissement donne « soutane, surplis, rabat, rien n’y manquoit ». |
 | Q033 — résolue | Vue 35, gauche, p. 70 | Possibilité d’une procession | L’agrandissement donne « qu’il n’eût pas été possible alors de déployer ». |
 | Q035 — résolue | Vue 35, droite, p. 71 | Privation des jouissances de l’âme | L’agrandissement donne « lorsque on a été réduit à en supporter longtemps la privation ». |
-
 | R010 | Vue 32, gauche, p. 64 | Reprise sur la vérité immuable | L’agrandissement montre deux fois « c’est cette immuable vérité », et non « car cette immuable vérité ». |
+| Q038 — résolue | Vue 38, droite, p. 77 | Arrivée de l’époque de l’accomplissement | Lecture visuelle : « L’époque est enfin arrivée où nous allons en voir l’accomplissement ». |
+| Q039 — résolue | Vue 38, droite, p. 77 | Absence de raison de retarder | L’agrandissement donne « Il n’y auroit eu alors aucun motif raisonnable de retarder davantage ». |
+| Q042 — résolue | Vue 40, droite, p. 81 | Permanence du feu sacré | L’agrandissement donne « afin que ce feu sacré pût se perpétuer constamment dans la société qui alloit se former ». |
+| Q043 — résolue | Vue 41, gauche, p. 82 | Appel au lecteur | L’agrandissement donne « Lisez, Messieurs, Dieu seul connoît ce qui se passoit alors dans nos cœurs ». |
+| Q044 — résolue | Vue 41, droite, p. 83 | Unité des corps et des cœurs | L’agrandissement donne « ne font vraiment plus qu’un », avec « plus » ajouté au-dessus de la ligne. |
 
 ## Principes appliqués
 
