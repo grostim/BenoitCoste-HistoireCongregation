@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314) et les deux premiers chapitres complets des Mémoires historiques (p. 315–349, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314) et les trois chapitres des Mémoires historiques présents dans le PDF fourni (p. 315–365), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -72,6 +72,9 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q239 | Vue 166, gauche, p. 332 | Liste des préfets des jeunes gens | Confirmer les noms proposés « Empaire » aîné et « Montetlan », laissés incertains dans le texte. Les autres noms sont lus sur les images, sans substitution d’identités historiques. Agrandissements `mem02-332-noms.png` et `mem02-332-noms-hires.png`. |
 | Q242 | Vue 169, gauche, p. 338 | « d’autres qu’on auroit reçus […] et que dans l’intervalle » | Le conditionnel « auroit » est lisible dans `mem02-338-recus.png` ; confirmer le raccord « et que » qui suit. La syntaxe est conservée avec une note, sans réécriture d’après le sens attendu. |
 | Q244 | Vue 169, droite, p. 339 | « Sine macula » | Référence de la formule à vérifier avant de donner une citation précise ; traduction littérale seule ajoutée : « Sans tache ». |
+| Q253 | Vue 182, gauche, p. 364 | « Sanguis Martyrum, semen Christianorum » | Vérifier la source et la forme précise de cette sentence avant de donner une référence. Traduction littérale seule ajoutée. |
+| Q254 | Vue 182, droite, p. 365 | « unissez-les aux mérites de vos ancêtres » | Confirmer le possessif proposé « vos » : lecture signalée, sans substitution de « nos » d’après le contexte. Agrandissement `mem03-365-merites.png`. |
+| Q259 | Vue 157, droite, p. 315 et vue 182, droite, p. 365 | Période des Mémoires et fin du fichier | Le titre annonce « de 1817 à 1840 », tandis que les marges de la fin portent « 1818–1820 ». Le PDF fourni s’arrête après une prière et un trait final, sans chapitre supplémentaire. Existe-t-il une suite ailleurs ? Le corpus fourni est entièrement passé en lecture visuelle ; aucune suite n’est inventée. |
 
 ## Questions résolues
 
@@ -273,6 +276,12 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q248 | Vue 166, gauche/droite, p. 332–333 | Autres noms des listes de préfets | `mem02-332-noms-hires.png` confirme « André Terret », « Desgorges », « Chalandon » et « Desplace » ; `mem02-333-noms.png` donne « Jacquier, Victor de Verna, Bonnet, Terret ». Aucune identité n’est tirée d’une liste extérieure. Les deux lectures encore incertaines restent sous Q239. |
 | Q249 | Vue 167, gauche, p. 334, marge | Date de décès ajoutée en marge | `mem02-334-date.png` donne une croix puis « 17 juin 1841 ». Première lecture « janvier » corrigée. La mention est séparée de la datation du récit (1817–1820). |
 | Q250 | Vue 174, droite, p. 349 | Limite du chapitre second | Le chapitre s’achève par « un nouveau lien entre les deux Congrégations ». Le titre « Chapitre troisième » suit, consacré aux ouvriers, aux dames et à la confrérie des Martyrs ; ce nouveau texte reste à transcrire. |
+| Q251 | Vue 177, droite, p. 355 | Comparaison avec les ouvriers | `mem03-355-prions.png` donne « voyons ces vertueux membres de la Congrégation des ouvriers vivant au jour le jour ». Première saisie « prions » retirée. |
+| Q252 | Vue 178, droite, p. 357 | Inspiration de la proposition | `mem03-357-esprit.png` donne « En ce moment l’esprit saint parla au cœur du Congréganiste et lui mit les paroles suivantes à la bouche ». Première saisie inexacte corrigée. |
+| Q255 | Vue 182, gauche, p. 364 | Reliques de l’apôtre | `mem03-364-cortege.png` donne « les précieuses reliques de notre apôtre, de notre père St Irénée. Cette pompe majestueuse […] ». Une phrase de liaison absente du scan est retirée de la première saisie. |
+| Q256 | Vue 179, gauche, p. 358 | Date et célébrant de la fondation des dames | `mem03-358-date.png` confirme « je crois que ce fut le 17 septembre 1818 » et « M. Mioland ». La réserve de mémoire de l’auteur est conservée ; ni date ni nom ne sont tirés d’une source historique extérieure. |
+| Q257 | Vue 180, droite, p. 361 | Fonction de M. Durand | `mem03-361-durand.png` confirme « en sa qualité de curé de St Irénée étoit préposé à la garde de ces précieuses reliques ». |
+| Q258 | Vue 175, droite, p. 351 | Présence d’hommes pieux chez les ouvriers | `mem03-351-rencontre.png` confirme le présent « où l’on rencontre cependant en grand nombre ». Première saisie au passé retirée. |
 
 ## Principes appliqués
 

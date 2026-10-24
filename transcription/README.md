@@ -1,14 +1,18 @@
-# Texte en cours de transcription
+# Texte transcrit — premier passage
 
-Transcription exclusivement par lecture visuelle directe avec la vision du modèle, sans OCR.
+Les 182 vues du PDF fourni ont été parcourues exclusivement par lecture visuelle directe avec la vision du modèle, sans OCR. Le statut est `transcrit` ; aucune relecture indépendante n’est déclarée.
 
-| Fichier | Pièce | Repères sources |
+| Fichiers | Pièces | Repères manuscrits |
 | --- | --- | --- |
-| `001-epitre.tex` | Épître dédicatoire à Marie | Vue 1 droite, puis vue 2 gauche et haut droit ; p. 1–3 |
-| `002-adresse.tex` | Adresse aux membres, 8 mai 1841 | Vue 2 droite puis vue 3 ; p. 3–5 |
-| `003-plan.tex` | Plan de tout l’ouvrage | Vue 4 puis vue 5 gauche ; p. 6–8 |
-| `004-chapitre-01.tex` | Chapitre premier complet | Vue 5 droite à vue 11 droite (haut) ; p. 9–21 |
+| `001-epitre.tex` à `003-plan.tex` | Épître, adresse du 8 mai 1841, plan | p. 1–8 |
+| `004-chapitre-01.tex` à `007-chapitre-04.tex` | Quatre chapitres du Précis historique | p. 9–27 puis 30–76 |
+| `008-fondation-chapitre-01.tex` à `021-fondation-chapitre-14.tex` | Quatorze chapitres de la première histoire | p. 77–314 |
+| `022-memoires-chapitre-01.tex` | Fondation de la Congrégation des hommes | p. 315–331 (début) |
+| `023-memoires-chapitre-02.tex` | Organisation des hommes et œuvres des deux sociétés | p. 331 (suite)–349 (début) |
+| `024-memoires-chapitre-03.tex` | Ouvriers, dames et confrérie des Martyrs | p. 349 (suite)–365, fin du PDF fourni |
 
-Les trois pièces liminaires et le chapitre premier sont transcrits. Une relecture indépendante reste à effectuer. Les incertitudes sont indiquées dans le texte et dans `../LECTURES_A_VERIFIER.md`.
+`texte.tex` inclut ces fichiers dans l’ordre du manuscrit. Chaque page comporte un commentaire de provenance (vue, côté et numéro manuscrit). Le détail par vue se trouve dans [le suivi](../SUIVI_TRANSCRIPTION.csv).
 
-Prochaine étape : chapitre second, « Gouvernement du Directoire exécutif. Élection du Pape Pie VII », page manuscrite 21, vue 11, côté droit, à partir de l’intitulé du chapitre au milieu de la page. Ne pas répéter le dernier paragraphe du chapitre premier figurant en haut de cette même page.
+Les pages 28–29 sont absentes du PDF fourni ; aucune restitution n’est proposée. Le titre des Mémoires annonce 1817–1840, tandis que les dernières marges portent 1818–1820 : le texte fourni s’arrête à la p. 365, après une prière et un trait final. Une suite éventuelle ne peut être inventée.
+
+La prochaine phase est la relecture indépendante et la vérification des lectures incertaines. Toutes les questions et les résolutions déjà établies sont conservées dans [le registre dédié](../LECTURES_A_VERIFIER.md). L’édition reste une édition de travail.
