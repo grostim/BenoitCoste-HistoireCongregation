@@ -12,12 +12,14 @@ Les documents sont automatiquement compilés et mis à disposition dans les troi
 
 | Format | Description | Lien de téléchargement |
 | :--- | :--- | :---: |
-| 📕 **PDF** | Version paginée officielle (mise en page typographique LaTeX) | [**Télécharger le PDF**](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Memoires_de_Benoit_Coste.pdf) |
-| 📱 **EPUB** | Version numérique adaptée aux liseuses, tablettes et smartphones | [**Télécharger l'EPUB**](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Memoires_de_Benoit_Coste.epub) |
-| 📄 **Markdown** | Version texte structurée pour consultation et traitement textuel | [**Télécharger le Markdown**](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Memoires_de_Benoit_Coste.md) |
+| 📕 **PDF** | Version paginée officielle (mise en page typographique LaTeX) | [**Télécharger le PDF**](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Histoire_de_la_Congregation.pdf) |
+| 📱 **EPUB** | Version numérique adaptée aux liseuses, tablettes et smartphones | [**Télécharger l'EPUB**](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Histoire_de_la_Congregation.epub) |
+| 📄 **Markdown** | Version texte structurée pour consultation et traitement textuel | [**Télécharger le Markdown**](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Histoire_de_la_Congregation.md) |
 
-*(Vous pouvez également retrouver l'historique complet des versions sur la page des [Releases GitHub](https://github.com/grostim/BenoitCoste/releases)).*
+*(Vous pouvez également retrouver l'historique complet des versions sur la page des [Releases GitHub](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases)).*
 
+
+Selon Timothée Gros (Q259), aucune suite à ce document n'est connue.
 
 ## Consulter les sources
 

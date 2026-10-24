@@ -13,6 +13,6 @@ Les 182 vues du PDF fourni ont été parcourues exclusivement par lecture visuel
 
 `texte.tex` inclut ces fichiers dans l’ordre du manuscrit. Chaque page comporte un commentaire de provenance (vue, côté et numéro manuscrit). Le détail par vue se trouve dans [le suivi](../SUIVI_TRANSCRIPTION.csv).
 
-Le saut de pagination de 27 à 30 est signalé comme une lacune ; il peut correspondre à des pages manquantes ou à une anomalie de numérotation. Aucune restitution n’est proposée. Le titre des Mémoires annonce 1817–1840, tandis que les dernières marges portent 1818–1820 : le texte fourni s’arrête à la p. 365, après une prière et un trait final. Une suite éventuelle ne peut être inventée.
+Le saut de pagination de 27 à 30 est signalé comme une lacune ; il peut correspondre à des pages manquantes ou à une anomalie de numérotation. Aucune restitution n’est proposée. Le titre des Mémoires annonce 1817–1840, tandis que les dernières marges portent 1818–1820 : le texte fourni s’arrête à la p. 365, après une prière et un trait final. Selon Timothée Gros (Q259), aucune suite à ce document n'est connue ; aucune continuation n'est reconstituée.
 
 La prochaine phase est la relecture indépendante et la vérification des lectures incertaines. Toutes les questions et les résolutions déjà établies sont conservées dans [le registre dédié](../LECTURES_A_VERIFIER.md). L’édition reste une édition de travail.
