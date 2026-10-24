@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les douze premiers chapitres de l’histoire (p. 77–282, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les treize premiers chapitres de l’histoire (p. 77–297, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -61,6 +61,8 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q189 | Vue 138, droite, p. 277 | Apostrophe après la citation sur les destins | Confirmer le premier mot proposé « Conséquent » avant « orgueilleux ! » ; la première lecture « Incompréhensible » est retirée. Agrandissement `chap12-277-orgueilleux.png` ; mot explicitement incertain dans le texte. |
 | Q190 | Vue 140, gauche, p. 280 | « Tu es Petrus et super hanc petram, ædificabo Ecclesiam meam » | Vérifier la source avant de donner une référence précise. Traduction littérale seule ajoutée : « Tu es Pierre, et sur cette pierre je bâtirai mon Église ». |
 | Q192 | Vue 138, droite, p. 277, fin et vue 139, gauche, p. 278, début | « la colère de / l’attend » | Un mot semble omis entre les deux pages. Les agrandissements `chap12-277-fin.png` et `chap12-278-debut.png` ne montrent pas de complément à « de ». Lacune signalée sans restitution ; vérifier sur l’original si un ajout marginal ou intercalaire existe. |
+| Q196 | Vue 143, gauche, p. 286 | « Exaudiat » | Vérifier la référence du psaume avant de la préciser en note. Traduction littérale seule : « Qu’il exauce ». Le commentaire sur son usage est celui de l’auteur. |
+| Q204 | Vue 145, droite, p. 291, première ligne | « nous en enlève » | Confirmer le découpage des lettres après « nous » : la graphie semble comporter un « en » avant « enlève ». La construction est conservée comme lecture incertaine, sans régularisation grammaticale. Agrandissements `chap13-291-enleve.png` et `chap13-291-enleve-serre.png`. |
 
 ## Questions résolues
 
@@ -218,6 +220,19 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q193 | Vue 137, droite, p. 275 | Puissance spirituelle et pouvoir des clefs | Résolue sur le rendu de 6000 pixels, `chap12-275-pouvoir-hires.png` : « et tant que sa puissance spirituelle n’aura pas abaissé le pouvoir des clefs devant celui de l’aigle dévastateur ». Les premières lectures « pourra paralyser » sont retirées. |
 | Q194 | Vue 140, droite, p. 281 | Soins et activité des sections | Résolue sur `chap12-281-soins.png` : « trop de soins exigeoient de la part des membres une attention de tous les instants ». La première saisie « exigeant » est corrigée. |
 | Q195 | Vue 140, gauche, p. 280 | Lutte contre la tempête | `chap12-280-tempete.png` confirme « Napoléon luttoit en vain ». Orthographe historique conservée, lecture de travail « luttait » retirée. |
+| Q197 | Vue 141, droite, p. 283, début | Retour aux dispositions du règlement | Résolue sur `chap13-283-debut.png` : « aucun obstacle à exécuter à l’avenir toutes les dispositions du règlement ». La lecture de travail « se remettre » est retirée. |
+| Q198 | Vue 142, gauche, p. 284 | Église et sécurité retrouvée | `chap13-284-eglise.png` confirme « persécutée dans la personne de ses membres avec le Souverain Pontife ». `chap13-284-securite.png` : « et en usant de la sécurité de réchauffer son zèle ». La construction est conservée, sans réécriture. |
+| Q199 | Vue 142, droite, p. 285 | Annonce du vice-préfet | Résolue sur `chap13-285-prefet.png` : « Le Vice Préfet mit le comble à l’allégresse générale ». Les mots supplémentaires de la première saisie sont retirés. |
+| Q200 | Vue 143, gauche, p. 286, début | Souvenirs des anciens | `chap13-286-debut.png` confirme « les anciens n’en parloient qu’avec émotion ». Orthographe de l’imparfait conservée. |
+| Q201 | Vue 144, gauche, p. 288 | Arrivée à Lyon | Résolue sur `chap13-288-arrivee.png` : « Ils y arrivèrent inopinément ». La lecture de travail « vingt mai » est retirée ; aucune date n’est fournie par cette phrase. |
+| Q202 | Vue 144, droite, p. 289, fin | Réunion dans une maison de campagne | Résolue sur `chap13-289-fin.png` : « avec un bien doux laisser aller à tous les sentiments religieux ». Les mots « plaisir, au lieu » du brouillon sont retirés. |
+| Q203 | Vue 145, gauche, p. 290 | Ancien cri de guerre | `chap13-290-devise.png` : « De tous les temps, allons toujours en avant ». La première lecture du début d’« allons » est corrigée. |
+| Q205 | Vue 147, gauche, p. 294 | Inquiétude du vicaire général | `chap13-294-guide.png` : « Toutefois il nous voyoit avec peine livrés à nous-même et dénués de tout guide spirituel ». « ne » et « qu’en peine », introduits dans la première saisie, sont retirés. |
+| Q206 | Vue 148, gauche, p. 296 | Retour aux postes et mérites du préfet | `chap13-296-retour.png` : « revinrent promptement reprendre leurs postes », puis « mais l’orage leur avoit enlevé leur Préfet ». `chap13-296-heros.png` confirme « ce héros de la religion ». Lectures de travail « auprès » et « bien » retirées. |
+| Q207 | Vue 146, droite, p. 293 et vue 147, gauche, p. 294 | Nom du vicaire général | Les occurrences et `chap13-293-nom.png` / `chap13-294-guide.png` confirment « Bochard ». Le nom n’est pas établi à partir d’une identification extérieure. |
+| Q208 | Vue 148, droite, p. 297 | Fin du chapitre treizième | Le scan montre la fin de la phrase « jour de la Nativité de la Ste Vierge de la même année », puis le titre « Chapitre quatorzième ». La vue reste partielle jusqu’à la transcription du chapitre suivant. |
+| Q209 | Vue 142, droite, p. 285, début | Abondance du cœur | `chap13-285-coeur.png` confirme « car comme tous les frères il surabondoit de joie ». Lecture de travail « les siens » retirée. |
+| Q210 | Vue 147, droite, p. 295 | Difficultés aplanies | Résolue sur `chap13-295-aplanir.png` : « Nous fûmes donc heureux de voir ainsi toutes les difficultés s’aplanir ». La formulation « bien sûrs » de la première saisie est retirée. |
 
 ## Principes appliqués
 
