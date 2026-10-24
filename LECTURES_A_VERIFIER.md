@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314) et le premier chapitre complet des Mémoires historiques (p. 315–331, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314) et les deux premiers chapitres complets des Mémoires historiques (p. 315–349, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -69,6 +69,9 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q229 | Vue 161, droite, p. 323 | « Pater », « Ave », « De profundis » | Références des prières à vérifier avant de donner des citations précises. Traductions littérales seules des débuts latins ajoutées. |
 | Q230 | Vue 162, gauche, p. 324, bas | « cette toute-puissante d’intercession » | Confirmer le mot proposé « toute-puissante », qui semble comporter une retouche finale ; la construction attendue ne suffit pas à imposer « toute-puissance ». Signalement explicite conservé. Agrandissements `mem01-324-puissance.png` et `mem01-324-puissance-hires.png`. |
 | Q231 | Vue 158, gauche, p. 316, première ligne | « qu’elle trempa ses lèvres » | Confirmer la terminaison du verbe, proposée « trempa » ; ne pas la régulariser d’après le sens. Signalement conservé après lecture de `mem01-316-debut-hires.png`. |
+| Q239 | Vue 166, gauche, p. 332 | Liste des préfets des jeunes gens | Confirmer les noms proposés « Empaire » aîné et « Montetlan », laissés incertains dans le texte. Les autres noms sont lus sur les images, sans substitution d’identités historiques. Agrandissements `mem02-332-noms.png` et `mem02-332-noms-hires.png`. |
+| Q242 | Vue 169, gauche, p. 338 | « d’autres qu’on auroit reçus […] et que dans l’intervalle » | Le conditionnel « auroit » est lisible dans `mem02-338-recus.png` ; confirmer le raccord « et que » qui suit. La syntaxe est conservée avec une note, sans réécriture d’après le sens attendu. |
+| Q244 | Vue 169, droite, p. 339 | « Sine macula » | Référence de la formule à vérifier avant de donner une citation précise ; traduction littérale seule ajoutée : « Sans tache ». |
 
 ## Questions résolues
 
@@ -261,6 +264,15 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q236 | Vue 158, gauche, p. 316 | Ajout entre les lignes | `mem01-316-societes.png` confirme « des sociétés nouvelles s’élèveront autour des nôtres ». L’ajout « s’élèveront » est intégré dans le texte final. |
 | Q237 | Vue 159, gauche, p. 318 | Qualification des esprits | `mem01-318-esprits.png` confirme « les esprits attentifs apercevoient ». Aucun remplacement par « réfléchis » ou autre synonyme. |
 | Q238 | Vue 164, gauche, p. 328 | Consécration de la famille | `mem01-328-famille.png` confirme « cette épouse, ces enfants chéris, ils les identifient avec eux ». La construction de la source est conservée. |
+| Q240 | Vue 168, gauche, p. 336, bas | Appel au lecteur au sujet de la charité | `mem02-336-capables.png` et `mem02-336-jugez-hires.png` donnent « une charité si expansive, jugez, si vous en êtes capables, combien cet amour doit être devenu plus vif ». Le premier brouillon, qui proposait une proposition inachevée, est corrigé. |
+| Q241 | Vue 168, droite, p. 337 | Citation soulignée après la Terre Promise | `mem02-337-latin-hires.png` confirme le latin « O quando sancta se dabit quæ nescit hostem patria ! ». La première saisie française est entièrement retirée. Formule attestée dans l’hymne de complies « Grates, peracto jam die », dans *Hymni ecclesiae, e breviario Parisiensi* (référence ci-dessous) ; traduction littérale ajoutée en note. |
+| Q243 | Vue 169, droite, p. 339 | Délibérations des assemblées | `mem02-339-verbe-hires.png` permet de lire « Les assemblées générales se tenoient avec exactitude et complétoient jusques dans les plus petits détails par des arrêtés, tout ce qui étoit nécessaire ». Première lecture « on s’étendoit » retirée. |
+| Q245 | Vue 171, droite, p. 343 | Bénédiction du souverain maître | `mem02-343-ligue.png` donne « à cette ligue toute sainte dont le but étoit de transformer ». Première lecture « digne » corrigée ; l’adjectif supplémentaire n’était pas une lacune. |
+| Q246 | Vue 172, gauche, p. 344 | Renouvellement des prisonniers | `mem02-344-rendoient.png` donne « et qui par conséquent venoient tristement rendre à la prison […] l’aspect affligeant ». Première lecture « rendoient tristement seuls » corrigée. |
+| Q247 | Vue 173, droite, p. 347, début | Départ du condamné | `mem02-347-raccord.png` confirme « sur l’échafaud ; alors nos Congréganistes avant de quitter […] lui donnent en pleurant le baiser de paix ». Raccord et verbes de la première saisie corrigés. |
+| Q248 | Vue 166, gauche/droite, p. 332–333 | Autres noms des listes de préfets | `mem02-332-noms-hires.png` confirme « André Terret », « Desgorges », « Chalandon » et « Desplace » ; `mem02-333-noms.png` donne « Jacquier, Victor de Verna, Bonnet, Terret ». Aucune identité n’est tirée d’une liste extérieure. Les deux lectures encore incertaines restent sous Q239. |
+| Q249 | Vue 167, gauche, p. 334, marge | Date de décès ajoutée en marge | `mem02-334-date.png` donne une croix puis « 17 juin 1841 ». Première lecture « janvier » corrigée. La mention est séparée de la datation du récit (1817–1820). |
+| Q250 | Vue 174, droite, p. 349 | Limite du chapitre second | Le chapitre s’achève par « un nouveau lien entre les deux Congrégations ». Le titre « Chapitre troisième » suit, consacré aux ouvriers, aux dames et à la confrérie des Martyrs ; ce nouveau texte reste à transcrire. |
 
 ## Principes appliqués
 
@@ -280,3 +292,5 @@ Références consultées le 23 octobre 2026.
 
 - `Abyssus abyssum invocat` : [Psaume 41 (42), 8, AELF](https://www.aelf.org/bible/Ps/41). Traduction littérale ajoutée : « Un abîme appelle un autre abîme. »
 - `Ecce homo` : [Jean 19, 5, AELF](https://www.aelf.org/bible/Jn/19), « Voici l’homme ! ». Références consultées le 23 octobre 2026 ; uniquement pour les notes du transcripteur.
+
+- `O quando sancta se dabit quæ nescit hostem patria` : hymne *Grates, peracto jam die*, aux complies, dans [*Hymni ecclesiae, e breviario Parisiensi*](https://upload.wikimedia.org/wikipedia/commons/d/d3/Hymni_ecclesiae%2C_e_breviario_Parisiensi_%28IA_hymniecclesiaeeb00newm%29.pdf). Formule attestée par l’extrait indexé consulté le 24 octobre 2026 ; référence utilisée seulement pour la note ajoutée. Lecture du manuscrit vérifiée séparément sur son image.
