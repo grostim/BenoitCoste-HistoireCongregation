@@ -13,6 +13,7 @@ Adaptation des principes du projet jumeau [BenoitCoste](https://github.com/grost
 ## Lecture et fidélité
 
 - Transcrire exclusivement par lecture visuelle directe des scans avec la vision du modèle, sans OCR. Cette règle s’applique aussi aux reprises, aux marges et à la relecture. Ne pas utiliser de moteur OCR ni de transcription OCR comme base du texte.
+- Développer les abréviations de mois en toutes lettres (notamment « 7bre » en « septembre »), suivant la décision de Timothée Gros en Q006 ; conserver les dates divergentes du manuscrit.
 - Respecter le sens, le vocabulaire et l’orthographe historique. Les normalisations de ponctuation et de typographie ne doivent pas modifier les mots.
 - Intégrer les ajouts et corrections lisibles qui constituent le texte final. Signaler une lecture concurrente importante en note du transcripteur.
 - Indiquer explicitement `[illisible]`, `[mot incertain : …]` ou `[lacune]` ; ne pas compléter par conjecture silencieuse.

@@ -22,5 +22,5 @@ cp dist/main.release.pdf dist/Histoire_de_la_Congregation.pdf
 pandoc dist/main.release.tex -f latex -t gfm --lua-filter=scripts/markdown.lua --wrap=none -o dist/Histoire_de_la_Congregation.md
 pandoc dist/main.release.tex -f latex -t epub3 --toc --toc-depth=2 \
   --metadata title="Histoire de la Congrégation des jeunes gens — transcription en cours" \
-  --metadata author="Benoît Coste (attribution à vérifier selon les parties)" \
+  --metadata author="Benoît Coste (attribution précisée par Timothée Gros ; manuscrit copié)" \
   --metadata language=fr -o dist/Histoire_de_la_Congregation.epub
