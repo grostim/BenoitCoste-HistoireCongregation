@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les treize premiers chapitres de l’histoire (p. 77–297, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q119 | Vue 90, gauche, p. 180 ; vue 91, gauche, p. 182 ; vue 92, gauche, p. 184 | « Pendant les neuf beaux jours » | La durée lue « neuf » est conservée ; vérifier séparément son articulation avec le mardi de Pâques annoncé, le 19 avril et le départ donné le lendemain de Fourvières. Ne pas remplacer la durée par une chronologie extérieure sans distinguer la source. |
 | Q139 | Vue 103, droite, p. 207, première ligne | « la dédommager […] par la génération naissante » | Confirmer le mot proposé « surtout ». L’agrandissement confirme ensuite « des maux qu’elle avoit soufferts » ; le premier mot reste explicitement incertain. |
 | Q140 | Vue 105, gauche, p. 210, bas | « et […] l’espérance de le rendre à la vie » | Confirmer le mot proposé « donner » ; graphie ambiguë malgré l’agrandissement, signalée dans le texte. |
-| Q146 | Vue 110, droite, p. 221 ; vue 67, gauche, p. 134 | Nom du directeur de Paris | La nouvelle occurrence se lit « Delpuy », alors que la précédente a été transcrite « Delpu » sous Q079. Vérifier s’il s’agit d’une variation de graphie de la source ; conserver les deux formes sans les aligner sur une identité présumée. |
+| Q146 | Vue 110, droite, p. 221 ; vue 67, gauche, p. 134 ; vue 154, gauche, p. 308 | Nom du directeur de Paris | La nouvelle occurrence se lit « Delpuy », alors que la précédente a été transcrite « Delpu » sous Q079. La p. 308 porte de nouveau « Delpu ». Vérifier s’il s’agit d’une variation de graphie de la source ; conserver les formes sans les aligner sur une identité présumée. |
 | Q151 | Vue 115, droite, p. 231 ; vue 116, gauche, p. 232 | Nom du vicaire général | Confirmer la graphie proposée « Caburra », laissée incertaine dans les trois occurrences ; les lettres finales restent difficiles malgré l’agrandissement. |
 | Q171 | Vue 130, gauche, p. 260 | « Respice Stellam, voca Mariam » | Vérifier la source avant d’ajouter une référence précise. Traduction littérale seule : « Regarde l’étoile, invoque Marie ». |
 | Q174 | Vue 129, droite, p. 259, bas | « par eux-mêmes ils […] étoient foibles » | Des traces pâles précèdent « étoient » ; s’agit-il d’une négation effacée ou encore active ? La lecture est explicitement incertaine dans le texte. Agrandissement `chap11-259-faibles.png`. |
@@ -63,6 +63,8 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q192 | Vue 138, droite, p. 277, fin et vue 139, gauche, p. 278, début | « la colère de / l’attend » | Un mot semble omis entre les deux pages. Les agrandissements `chap12-277-fin.png` et `chap12-278-debut.png` ne montrent pas de complément à « de ». Lacune signalée sans restitution ; vérifier sur l’original si un ajout marginal ou intercalaire existe. |
 | Q196 | Vue 143, gauche, p. 286 | « Exaudiat » | Vérifier la référence du psaume avant de la préciser en note. Traduction littérale seule : « Qu’il exauce ». Le commentaire sur son usage est celui de l’auteur. |
 | Q204 | Vue 145, droite, p. 291, première ligne | « nous en enlève » | Confirmer le découpage des lettres après « nous » : la graphie semble comporter un « en » avant « enlève ». La construction est conservée comme lecture incertaine, sans régularisation grammaticale. Agrandissements `chap13-291-enleve.png` et `chap13-291-enleve-serre.png`. |
+| Q214 | Vue 151, gauche, p. 302 | Relations avec l’abbé Rey | Confirmer le raccord proposé « elles étoient pour être devenues plus intimes ». Le groupe entre « étoient » et « plus intimes » reste explicitement incertain ; pas de correction grammaticale silencieuse. Agrandissement `chap14-302-relations.png`. |
+| Q219 | Vue 157, gauche, p. 314, formule finale | « Memor esto, Domine, Congregationis tuæ quam possedisti ab initio » | Vérifier la référence avant de la donner en note. Traduction littérale ajoutée seule : « Souvenez-vous, Seigneur, de votre assemblée que vous avez acquise dès le commencement ». |
 
 ## Questions résolues
 
@@ -233,6 +235,20 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q208 | Vue 148, droite, p. 297 | Fin du chapitre treizième | Le scan montre la fin de la phrase « jour de la Nativité de la Ste Vierge de la même année », puis le titre « Chapitre quatorzième ». La vue reste partielle jusqu’à la transcription du chapitre suivant. |
 | Q209 | Vue 142, droite, p. 285, début | Abondance du cœur | `chap13-285-coeur.png` confirme « car comme tous les frères il surabondoit de joie ». Lecture de travail « les siens » retirée. |
 | Q210 | Vue 147, droite, p. 295 | Difficultés aplanies | Résolue sur `chap13-295-aplanir.png` : « Nous fûmes donc heureux de voir ainsi toutes les difficultés s’aplanir ». La formulation « bien sûrs » de la première saisie est retirée. |
+| Q211 | Vue 149, droite, p. 299 | Officiers du catéchisme militaire | `chap14-299-noms.png` confirme « de Chateaubriant », « capitaine Martin » et « lieutenant Bouquet ». Lecture de travail « Bourguet » retirée après agrandissement ; aucun nom n’est imposé à partir d’une identification extérieure. |
+| Q212 | Vue 148, droite, p. 297 | Devoir de la Congrégation | `chap14-297-regne.png` : « à faire arriver son règne ». La lecture « admirer » du brouillon est retirée. |
+| Q213 | Vue 150, gauche, p. 300 | Œuvre des Savoyards | `chap14-300-regles.png` confirme « exercer à Lyon l’état de décrotteur », puis « La section de l’instruction fut donc mise en possession de l’œuvre ». La saisie de travail est corrigée. |
+| Q215 | Vue 153, gauche, p. 306 | Rempart de l’Église | `chap14-306-rempart.png` : « ce solide rempart qui n’avoit pu défendre l’Église et son chef des fureurs de l’impiété ». La première lecture « pas » est remplacée par les lettres « pu ». |
+| Q216 | Vue 153, droite, p. 307 | Pères de la Foi | `chap14-307-ordre.png` : « devoit s’absorber, mais il offroit au petit noyau des Jésuites ». La lecture de travail « sans doute » est retirée. |
+| Q217 | Vue 152, droite, p. 305 | Barrières et repentir | `chap14-305-pret.png` : « à la moindre marque de repentir, sont prêtes à s’abaisser toutes les barrières ». La construction avec « il » du brouillon est retirée. |
+| Q218 | Vue 155, droite, p. 311 | Direction de M. de Lupé | `chap14-311-forme.png` confirme « qu’on lui avoit confiées par la forme ». La préposition lue est conservée, sans réécriture en « pour ». |
+| Q220 | Vue 157, gauche/droite, p. 314–315 | Limite de la première histoire | La p. 314 porte « Fin de l’histoire de la Congrégation des jeunes gens » et la formule latine. La p. 315 ouvre les « Mémoires historiques […] de 1817 à 1840 », chapitre premier, « Fondation de la Congrégation des hommes ». La première histoire est terminée ; le manuscrit entier ne l’est pas. |
+| Q221 | Vue 153, gauche, p. 306 | Arbitre souverain | `chap14-306-arbitre.png` : « ainsi l’a résolu l’arbitre souverain des destinées des peuples » et « pour qu’au temps marqué les desseins du très haut s’accomplissent ». Formulations de travail retirées. |
+| Q222 | Vue 156, droite, p. 313 | Bonne odeur de J. C. | `chap14-313-interieur.png` : « dont on étoit vraiment embaumé dès qu’on l’approchoit ». Lecture de travail « son cœur » retirée. |
+| Q223 | Vue 156, gauche, p. 312 | Paroles d’édification | `chap14-312-attiroit.png` : « aussi attiroit-il à lui tous les cœurs ». La première saisie « entroit » est corrigée. |
+| Q224 | Vue 156, droite, p. 313 | Moyens de rendre la société utile | `chap14-313-moyens.png` confirme « Là cependant pouvoient se trouver les moyens de rendre la société véritablement utile ». Lectures de travail « se voient » / « devoient » retirées. |
+| Q225 | Vue 154, gauche, p. 308 | Maisons d’éducation | `chap14-308-noms.png` confirme les graphies « St Acheul, Dole, Forcalquier, Billom ». Aucune restitution d’après une liste historique extérieure. |
+| Q226 | Vue 156, gauche, p. 312 | Regard vers le père | `chap14-312-regard.png` confirme le pluriel « aux bons Congréganistes » et « leur père ». Première saisie au singulier retirée. |
 
 ## Principes appliqués
 
