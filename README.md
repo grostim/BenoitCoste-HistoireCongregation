@@ -1,4 +1,4 @@
-# BenoitCoste-HistoireCongrégation
+# Benoit Coste - Histoire de la Congrégation de Jeunes Gens
 
 [![Validation et publication](https://github.com/grostim/BenoitCoste-HistoireCongregation/actions/workflows/ci-release.yml/badge.svg)](https://github.com/grostim/BenoitCoste-HistoireCongregation/actions/workflows/ci-release.yml)
 
