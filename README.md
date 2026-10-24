@@ -8,7 +8,7 @@ Projet de transcription de l’**Histoire de la Congrégation des jeunes gens**,
 
 ## Éditions de travail
 
-Chaque mise à jour de `main` compile et publie les trois formats. Une demande de modification les compile sans créer de release.
+Chaque mise à jour de `main` compile et publie les trois formats. 
 
 - [PDF](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Histoire_de_la_Congregation.pdf)
 - [EPUB](https://github.com/grostim/BenoitCoste-HistoireCongregation/releases/latest/download/Histoire_de_la_Congregation.epub)
