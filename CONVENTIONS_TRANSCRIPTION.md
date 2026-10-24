@@ -20,6 +20,17 @@ Adaptation des principes du projet jumeau [BenoitCoste](https://github.com/grost
 - Conserver toutes les notes de l’auteur. Marquer séparément toute explication ajoutée par `(Note du transcripteur)`.
 - Pour le latin, conserver le texte, ajouter une traduction en note du transcripteur et vérifier sa source avant de donner une référence précise. Ne pas inventer d’identification.
 
+## Traductions et références des citations latines
+
+- Présentation commune : `Traduction : « Texte français. » Référence : source. (Note du transcripteur).`
+- La traduction précède toujours la référence ; une explication contextuelle éventuelle vient ensuite. Le marqueur de note du transcripteur figure une seule fois, à la fin.
+- Pour la Bible : nom du livre, chapitre et verset (`Matthieu 16, 18`). Pour les psaumes : numéro traditionnel suivi du numéro hébraïque entre parenthèses, puis verset (`Psaume 132 (133), 1`).
+- Pour les hymnes et autres œuvres : titre en italique, suivi de la subdivision disponible. Identifier explicitement un début de texte quand seuls les premiers mots sont traduits.
+- Harmoniser la traduction des formules répétées, en conservant les traductions partielles lorsque la citation est abrégée. Les compléments entre crochets restent visibles.
+- Conserver les nuances « formule apparentée » ou « formule adaptée ». Ne pas présenter une adaptation comme une citation littérale.
+- Ne pas ajouter de référence non vérifiée ni réintroduire les avertissements de travail supprimés. Les décisions de laisser certaines locutions sans référence restent applicables.
+- Les traductions sous les titres de partie suivent le même libellé, tout en restant à leur emplacement.
+
 ## Structure LaTeX
 
 Le point d’entrée est `main.tex`, qui inclut `transcription/texte.tex`. Les lots peuvent être répartis dans des fichiers à noms stables, par exemple `transcription/001-epitre.tex`, lorsqu’un découpage aura été vérifié.
