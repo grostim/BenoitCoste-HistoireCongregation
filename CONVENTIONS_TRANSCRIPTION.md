@@ -14,7 +14,7 @@ Adaptation des principes du projet jumeau [BenoitCoste](https://github.com/grost
 
 - Transcrire exclusivement par lecture visuelle directe des scans avec la vision du modèle, sans OCR. Cette règle s’applique aussi aux reprises, aux marges et à la relecture. Ne pas utiliser de moteur OCR ni de transcription OCR comme base du texte.
 - Développer les abréviations de mois en toutes lettres (notamment « 7bre » en « septembre »), suivant la décision de Timothée Gros en Q006 ; conserver les dates divergentes du manuscrit.
-- Respecter le sens, le vocabulaire et l’orthographe historique. Les normalisations de ponctuation et de typographie ne doivent pas modifier les mots.
+- Respecter le sens et le vocabulaire. À la demande de Timothée Gros du 24 octobre 2026, moderniser les anciennes terminaisons verbales `-ois`, `-oit`, `-oient` en `-ais`, `-ait`, `-aient`, ainsi que les familles de « connoître » / « reconnoître » et « paroître » (« connaître », « reconnaissance », « paraître », etc.). Les formes modernes comme « doit », « croit », « reçoit », les noms propres et les mots non verbaux restent inchangés. Les autres particularités d’orthographe historique sont conservées. Les réponses et citations de travail du registre gardent leur forme d’origine.
 - Intégrer les ajouts et corrections lisibles qui constituent le texte final. Signaler une lecture concurrente importante en note du transcripteur.
 - Indiquer explicitement `[illisible]`, `[mot incertain : …]` ou `[lacune]` ; ne pas compléter par conjecture silencieuse.
 - Conserver toutes les notes de l’auteur. Marquer séparément toute explication ajoutée par `(Note du transcripteur)`.
