@@ -4,7 +4,7 @@ Fichier dédié à **tous les doutes et questions à lever** : lectures, repère
 
 ## Questions ouvertes
 
-Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
+Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis historique (p. 9–27 puis 30–76), puis les quatorze chapitres complets de la première histoire (p. 77–314) et le premier chapitre complet des Mémoires historiques (p. 315–331, début), lues directement sur les images par la vision du modèle, sans OCR. Une deuxième inspection des agrandissements a corrigé certaines lectures de travail ; elle ne constitue pas une relecture indépendante. Le suivi conserve donc le statut `transcrit`.
 
 | ID | Source | Passage | Question à lever |
 | --- | --- | --- | --- |
@@ -65,6 +65,10 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q204 | Vue 145, droite, p. 291, première ligne | « nous en enlève » | Confirmer le découpage des lettres après « nous » : la graphie semble comporter un « en » avant « enlève ». La construction est conservée comme lecture incertaine, sans régularisation grammaticale. Agrandissements `chap13-291-enleve.png` et `chap13-291-enleve-serre.png`. |
 | Q214 | Vue 151, gauche, p. 302 | Relations avec l’abbé Rey | Confirmer le raccord proposé « elles étoient pour être devenues plus intimes ». Le groupe entre « étoient » et « plus intimes » reste explicitement incertain ; pas de correction grammaticale silencieuse. Agrandissement `chap14-302-relations.png`. |
 | Q219 | Vue 157, gauche, p. 314, formule finale | « Memor esto, Domine, Congregationis tuæ quam possedisti ab initio » | Vérifier la référence avant de la donner en note. Traduction littérale ajoutée seule : « Souvenez-vous, Seigneur, de votre assemblée que vous avez acquise dès le commencement ». |
+| Q227 | Vues 157, droite, p. 315, fin et 158, gauche, p. 316, début | « Nous avons vu le Seigneur […] a permis pour la fortifier » | Confirmer la construction, qui semble inachevée ou irrégulière. `mem01-315-raccord-hires.png` et `mem01-316-debut-hires.png` ne permettent pas de restituer un raccord supplémentaire ; les mots lus sont conservés avec une note. |
+| Q229 | Vue 161, droite, p. 323 | « Pater », « Ave », « De profundis » | Références des prières à vérifier avant de donner des citations précises. Traductions littérales seules des débuts latins ajoutées. |
+| Q230 | Vue 162, gauche, p. 324, bas | « cette toute-puissante d’intercession » | Confirmer le mot proposé « toute-puissante », qui semble comporter une retouche finale ; la construction attendue ne suffit pas à imposer « toute-puissance ». Signalement explicite conservé. Agrandissements `mem01-324-puissance.png` et `mem01-324-puissance-hires.png`. |
+| Q231 | Vue 158, gauche, p. 316, première ligne | « qu’elle trempa ses lèvres » | Confirmer la terminaison du verbe, proposée « trempa » ; ne pas la régulariser d’après le sens. Signalement conservé après lecture de `mem01-316-debut-hires.png`. |
 
 ## Questions résolues
 
@@ -249,6 +253,14 @@ Lots transcrits : pièces liminaires (p. 1–8) et quatre chapitres du Précis h
 | Q224 | Vue 156, droite, p. 313 | Moyens de rendre la société utile | `chap14-313-moyens.png` confirme « Là cependant pouvoient se trouver les moyens de rendre la société véritablement utile ». Lectures de travail « se voient » / « devoient » retirées. |
 | Q225 | Vue 154, gauche, p. 308 | Maisons d’éducation | `chap14-308-noms.png` confirme les graphies « St Acheul, Dole, Forcalquier, Billom ». Aucune restitution d’après une liste historique extérieure. |
 | Q226 | Vue 156, gauche, p. 312 | Regard vers le père | `chap14-312-regard.png` confirme le pluriel « aux bons Congréganistes » et « leur père ». Première saisie au singulier retirée. |
+| Q228 | Vue 158, gauche, p. 316 | Début du paragraphe sur Marie et la mémoire | `mem01-316-marie-hires.png` donne « N’en doutons pas, c’est Marie, notre bonne mère qui a conservé dans ma mémoire tous ces souvenirs ». La première saisie « cette Marie » est corrigée. |
+| Q232 | Vue 158, droite, p. 317 | Souvenirs à joindre aux documents | `mem01-317-souvenirs.png` confirme « en joignant les souvenirs à ceux que j’aurai conservés ». Lecture littérale conservée, sans ajout de possessif. |
+| Q233 | Vue 161, gauche, p. 322 | Âges d’admission | `mem01-322-ages.png` confirme « les garçons âgés de plus de trente-trois ans » et la limite chiffrée « 60 ans ». Ces nombres ne sont pas remplacés par des règles extérieures. |
+| Q234 | Vue 165, droite, p. 331, début | Limite du premier chapitre des Mémoires | La phrase finale se termine par « la Congrégation des hommes fut définitivement fondée ». Le titre « Chapitre second » vient immédiatement après ; la vue reste partielle. |
+| Q235 | Vue 161, gauche, p. 322 | Nom du comité | `mem01-322-comite.png` confirme « comité du zèle, et non section du zèle » ; les deux désignations sont conservées dans le commentaire de l’auteur. |
+| Q236 | Vue 158, gauche, p. 316 | Ajout entre les lignes | `mem01-316-societes.png` confirme « des sociétés nouvelles s’élèveront autour des nôtres ». L’ajout « s’élèveront » est intégré dans le texte final. |
+| Q237 | Vue 159, gauche, p. 318 | Qualification des esprits | `mem01-318-esprits.png` confirme « les esprits attentifs apercevoient ». Aucun remplacement par « réfléchis » ou autre synonyme. |
+| Q238 | Vue 164, gauche, p. 328 | Consécration de la famille | `mem01-328-famille.png` confirme « cette épouse, ces enfants chéris, ils les identifient avec eux ». La construction de la source est conservée. |
 
 ## Principes appliqués
 
